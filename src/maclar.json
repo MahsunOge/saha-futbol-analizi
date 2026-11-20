@@ -1,0 +1,1573 @@
+[
+  {
+    "id": 3869685,
+    "tarih": "2022-12-18",
+    "tur": "Final",
+    "takimlar": [
+      {
+        "ad": "Argentina",
+        "form": {
+          "gecmis": [
+            {
+              "id": 3869519,
+              "tarih": "2022-12-13",
+              "rakip": "Croatia",
+              "xg": 1.6470854557495307,
+              "pas": 432,
+              "isabet": 358
+            },
+            {
+              "id": 3869321,
+              "tarih": "2022-12-09",
+              "rakip": "Netherlands",
+              "xg": 1.604401114390925,
+              "pas": 640,
+              "isabet": 531
+            },
+            {
+              "id": 3869151,
+              "tarih": "2022-12-03",
+              "rakip": "Australia",
+              "xg": 1.066852182632468,
+              "pas": 728,
+              "isabet": 646
+            },
+            {
+              "id": 3857264,
+              "tarih": "2022-11-30",
+              "rakip": "Poland",
+              "xg": 2.614881951443949,
+              "pas": 909,
+              "isabet": 826
+            },
+            {
+              "id": 3857289,
+              "tarih": "2022-11-26",
+              "rakip": "Mexico",
+              "xg": 0.4632930284609079,
+              "pas": 567,
+              "isabet": 476
+            }
+          ],
+          "xg": 1.4793027465355562,
+          "oran": 86.5995115995116
+        },
+        "tahmin": {
+          "dizilis": "4-4-2",
+          "oyuncular": [
+            {
+              "id": 6909,
+              "ad": "Damián Emiliano Martínez",
+              "mevki": 1,
+              "numara": 23
+            },
+            {
+              "id": 29201,
+              "ad": "Nahuel Molina Lucero",
+              "mevki": 2,
+              "numara": 26
+            },
+            {
+              "id": 20572,
+              "ad": "Cristian Gabriel Romero",
+              "mevki": 3,
+              "numara": 13
+            },
+            {
+              "id": 3090,
+              "ad": "Nicolás Hernán Otamendi",
+              "mevki": 5,
+              "numara": 19
+            },
+            {
+              "id": 19597,
+              "ad": "Marcos Javier Acuña",
+              "mevki": 6,
+              "numara": 8
+            },
+            {
+              "id": 16308,
+              "ad": "Leandro Daniel Paredes",
+              "mevki": 9,
+              "numara": 5
+            },
+            {
+              "id": 38718,
+              "ad": "Enzo Fernandez",
+              "mevki": 11,
+              "numara": 24
+            },
+            {
+              "id": 7797,
+              "ad": "Rodrigo Javier De Paul",
+              "mevki": 12,
+              "numara": 7
+            },
+            {
+              "id": 27886,
+              "ad": "Alexis Mac Allister",
+              "mevki": 16,
+              "numara": 20
+            },
+            {
+              "id": 5503,
+              "ad": "Lionel Andrés Messi Cuccittini",
+              "mevki": 22,
+              "numara": 10
+            },
+            {
+              "id": 29560,
+              "ad": "Julián Álvarez",
+              "mevki": 24,
+              "numara": 9
+            }
+          ]
+        },
+        "gercek": {
+          "dizilis": "4-3-3",
+          "oyuncular": [
+            {
+              "id": 6909,
+              "ad": "Damián Emiliano Martínez",
+              "mevki": 1,
+              "numara": 23
+            },
+            {
+              "id": 29201,
+              "ad": "Nahuel Molina Lucero",
+              "mevki": 2,
+              "numara": 26
+            },
+            {
+              "id": 20572,
+              "ad": "Cristian Gabriel Romero",
+              "mevki": 3,
+              "numara": 13
+            },
+            {
+              "id": 3090,
+              "ad": "Nicolás Hernán Otamendi",
+              "mevki": 5,
+              "numara": 19
+            },
+            {
+              "id": 5507,
+              "ad": "Nicolás Alejandro Tagliafico",
+              "mevki": 6,
+              "numara": 3
+            },
+            {
+              "id": 38718,
+              "ad": "Enzo Fernandez",
+              "mevki": 10,
+              "numara": 24
+            },
+            {
+              "id": 7797,
+              "ad": "Rodrigo Javier De Paul",
+              "mevki": 13,
+              "numara": 7
+            },
+            {
+              "id": 27886,
+              "ad": "Alexis Mac Allister",
+              "mevki": 15,
+              "numara": 20
+            },
+            {
+              "id": 5503,
+              "ad": "Lionel Andrés Messi Cuccittini",
+              "mevki": 17,
+              "numara": 10
+            },
+            {
+              "id": 2995,
+              "ad": "Ángel Fabián Di María Hernández",
+              "mevki": 21,
+              "numara": 11
+            },
+            {
+              "id": 29560,
+              "ad": "Julián Álvarez",
+              "mevki": 23,
+              "numara": 9
+            }
+          ]
+        },
+        "gol": 3,
+        "xg": 2.5018249017140337,
+        "şut": 20,
+        "pas": 693,
+        "isabet": 560,
+        "oran": 80.8080808080808
+      },
+      {
+        "ad": "France",
+        "form": {
+          "gecmis": [
+            {
+              "id": 3869552,
+              "tarih": "2022-12-14",
+              "rakip": "Morocco",
+              "xg": 1.8241805359787848,
+              "pas": 387,
+              "isabet": 316
+            },
+            {
+              "id": 3869354,
+              "tarih": "2022-12-10",
+              "rakip": "England",
+              "xg": 1.1264497411250505,
+              "pas": 412,
+              "isabet": 328
+            },
+            {
+              "id": 3869152,
+              "tarih": "2022-12-04",
+              "rakip": "Poland",
+              "xg": 1.4324876354073028,
+              "pas": 593,
+              "isabet": 505
+            },
+            {
+              "id": 3857275,
+              "tarih": "2022-11-30",
+              "rakip": "Tunisia",
+              "xg": 0.8189220534470953,
+              "pas": 661,
+              "isabet": 564
+            },
+            {
+              "id": 3857266,
+              "tarih": "2022-11-26",
+              "rakip": "Denmark",
+              "xg": 2.926657717805082,
+              "pas": 540,
+              "isabet": 464
+            }
+          ],
+          "xg": 1.625739536752663,
+          "oran": 83.95680678750482
+        },
+        "tahmin": {
+          "dizilis": "4-2-3-1",
+          "oyuncular": [
+            {
+              "id": 3099,
+              "ad": "Hugo Lloris",
+              "mevki": 1,
+              "numara": 1
+            },
+            {
+              "id": 4445,
+              "ad": "Jules Koundé",
+              "mevki": 2,
+              "numara": 5
+            },
+            {
+              "id": 5485,
+              "ad": "Raphaël Varane",
+              "mevki": 3,
+              "numara": 4
+            },
+            {
+              "id": 8519,
+              "ad": "Dayotchanculle Upamecano",
+              "mevki": 5,
+              "numara": 18
+            },
+            {
+              "id": 6704,
+              "ad": "Theo Bernard François Hernández",
+              "mevki": 6,
+              "numara": 22
+            },
+            {
+              "id": 10481,
+              "ad": "Aurélien Djani Tchouaméni",
+              "mevki": 9,
+              "numara": 8
+            },
+            {
+              "id": 3026,
+              "ad": "Adrien Rabiot",
+              "mevki": 11,
+              "numara": 14
+            },
+            {
+              "id": 5477,
+              "ad": "Ousmane Dembélé",
+              "mevki": 17,
+              "numara": 11
+            },
+            {
+              "id": 5487,
+              "ad": "Antoine Griezmann",
+              "mevki": 19,
+              "numara": 7
+            },
+            {
+              "id": 3009,
+              "ad": "Kylian Mbappé Lottin",
+              "mevki": 21,
+              "numara": 10
+            },
+            {
+              "id": 3604,
+              "ad": "Olivier Giroud",
+              "mevki": 23,
+              "numara": 9
+            }
+          ]
+        },
+        "gercek": {
+          "dizilis": "4-2-3-1",
+          "oyuncular": [
+            {
+              "id": 3099,
+              "ad": "Hugo Lloris",
+              "mevki": 1,
+              "numara": 1
+            },
+            {
+              "id": 4445,
+              "ad": "Jules Koundé",
+              "mevki": 2,
+              "numara": 5
+            },
+            {
+              "id": 5485,
+              "ad": "Raphaël Varane",
+              "mevki": 3,
+              "numara": 4
+            },
+            {
+              "id": 8519,
+              "ad": "Dayotchanculle Upamecano",
+              "mevki": 5,
+              "numara": 18
+            },
+            {
+              "id": 6704,
+              "ad": "Theo Bernard François Hernández",
+              "mevki": 6,
+              "numara": 22
+            },
+            {
+              "id": 10481,
+              "ad": "Aurélien Djani Tchouaméni",
+              "mevki": 9,
+              "numara": 8
+            },
+            {
+              "id": 3026,
+              "ad": "Adrien Rabiot",
+              "mevki": 11,
+              "numara": 14
+            },
+            {
+              "id": 5477,
+              "ad": "Ousmane Dembélé",
+              "mevki": 17,
+              "numara": 11
+            },
+            {
+              "id": 5487,
+              "ad": "Antoine Griezmann",
+              "mevki": 19,
+              "numara": 7
+            },
+            {
+              "id": 3009,
+              "ad": "Kylian Mbappé Lottin",
+              "mevki": 21,
+              "numara": 10
+            },
+            {
+              "id": 3604,
+              "ad": "Olivier Giroud",
+              "mevki": 23,
+              "numara": 9
+            }
+          ]
+        },
+        "gol": 3,
+        "xg": 2.0125797925473456,
+        "şut": 10,
+        "pas": 570,
+        "isabet": 434,
+        "oran": 76.14035087719299
+      }
+    ],
+    "sutlar": [
+      {
+        "id": "545c2c84-018f-4570-a01c-753823feaeac",
+        "takim": "Argentina",
+        "oyuncu": "Alexis Mac Allister",
+        "dakika": 4,
+        "saniye": 40,
+        "x": 92.4,
+        "y": 30.0,
+        "mesafe": 25.602197171336677,
+        "aci": 15.393410553712584,
+        "sonuc": "Saved",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.026106255540209445
+      },
+      {
+        "id": "4ad26294-8aaf-4d69-83dd-bbf9ef797b32",
+        "takim": "Argentina",
+        "oyuncu": "Rodrigo Javier De Paul",
+        "dakika": 7,
+        "saniye": 36,
+        "x": 99.2,
+        "y": 47.9,
+        "mesafe": 19.399258362112707,
+        "aci": 20.156841105034573,
+        "sonuc": "Blocked",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.050313460831204485
+      },
+      {
+        "id": "6d498191-05f0-432c-8764-03aea4ef9fb8",
+        "takim": "Argentina",
+        "oyuncu": "Ángel Fabián Di María Hernández",
+        "dakika": 16,
+        "saniye": 15,
+        "x": 103.1,
+        "y": 34.6,
+        "mesafe": 15.483483337091823,
+        "aci": 25.558659930328055,
+        "sonuc": "Off T",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.07862172625452095
+      },
+      {
+        "id": "6d527ebc-a948-4cd8-ac82-daced35bb715",
+        "takim": "Argentina",
+        "oyuncu": "Lionel Andrés Messi Cuccittini",
+        "dakika": 22,
+        "saniye": 24,
+        "x": 108.0,
+        "y": 40.0,
+        "mesafe": 10.5,
+        "aci": 38.43419035395734,
+        "sonuc": "Goal",
+        "tur": "Penalty",
+        "gol": true,
+        "xg": 0.6969230434554133
+      },
+      {
+        "id": "f227a92e-d86c-4f3d-aa75-5ccb71adcae6",
+        "takim": "Argentina",
+        "oyuncu": "Alexis Mac Allister",
+        "dakika": 31,
+        "saniye": 35,
+        "x": 94.3,
+        "y": 23.5,
+        "mesafe": 26.502608951761715,
+        "aci": 13.436766639059929,
+        "sonuc": "Wayward",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.023143593579902567
+      },
+      {
+        "id": "ef86f4d9-7acd-4ed0-a5ec-9129079e8fbe",
+        "takim": "Argentina",
+        "oyuncu": "Ángel Fabián Di María Hernández",
+        "dakika": 35,
+        "saniye": 22,
+        "x": 111.8,
+        "y": 32.1,
+        "mesafe": 9.827097740431812,
+        "aci": 32.270045886939606,
+        "sonuc": "Goal",
+        "tur": "Open Play",
+        "gol": true,
+        "xg": 0.142590118794308
+      },
+      {
+        "id": "13a4889d-ad08-41be-9125-24c4c7d7879a",
+        "takim": "Argentina",
+        "oyuncu": "Rodrigo Javier De Paul",
+        "dakika": 48,
+        "saniye": 49,
+        "x": 103.3,
+        "y": 52.3,
+        "mesafe": 17.967531306498397,
+        "aci": 19.0688244037854,
+        "sonuc": "Saved",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.056085949708626175
+      },
+      {
+        "id": "43691970-1dad-4e11-bd29-48f640c55ea1",
+        "takim": "Argentina",
+        "oyuncu": "Julián Álvarez",
+        "dakika": 58,
+        "saniye": 21,
+        "x": 110.5,
+        "y": 24.9,
+        "mesafe": 15.29166051316861,
+        "aci": 15.431016550579528,
+        "sonuc": "Saved",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.06661071999503718
+      },
+      {
+        "id": "9615ffbc-b513-45e6-9ccc-015234483f95",
+        "takim": "Argentina",
+        "oyuncu": "Lionel Andrés Messi Cuccittini",
+        "dakika": 59,
+        "saniye": 51,
+        "x": 109.7,
+        "y": 46.0,
+        "mesafe": 10.355440900801856,
+        "aci": 35.108154853979954,
+        "sonuc": "Off T",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.14320868839620382
+      },
+      {
+        "id": "9f6285ff-9b32-4a46-a4a0-74c1ca89276c",
+        "takim": "France",
+        "oyuncu": "Randal Kolo Muani",
+        "dakika": 67,
+        "saniye": 15,
+        "x": 113.4,
+        "y": 34.6,
+        "mesafe": 7.376904838751814,
+        "aci": 45.85967010444159,
+        "sonuc": "Off T",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.21464200747454742
+      },
+      {
+        "id": "b2d43671-a3e6-4709-9c0c-646442c1074c",
+        "takim": "France",
+        "oyuncu": "Kylian Mbappé Lottin",
+        "dakika": 70,
+        "saniye": 9,
+        "x": 102.5,
+        "y": 27.9,
+        "mesafe": 18.44597195189237,
+        "aci": 18.928064324884367,
+        "sonuc": "Off T",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.05359121041797867
+      },
+      {
+        "id": "43b2d123-6945-4a7c-8292-f7792af341f9",
+        "takim": "Argentina",
+        "oyuncu": "Enzo Fernandez",
+        "dakika": 71,
+        "saniye": 31,
+        "x": 98.9,
+        "y": 32.2,
+        "mesafe": 19.616850059323994,
+        "aci": 19.9942489107695,
+        "sonuc": "Saved",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.049187852586681464
+      },
+      {
+        "id": "6cc0d5e2-6999-4006-8a7a-34de4cbe3ffd",
+        "takim": "France",
+        "oyuncu": "Kylian Mbappé Lottin",
+        "dakika": 79,
+        "saniye": 24,
+        "x": 108.0,
+        "y": 40.0,
+        "mesafe": 10.5,
+        "aci": 38.43419035395734,
+        "sonuc": "Goal",
+        "tur": "Penalty",
+        "gol": true,
+        "xg": 0.6969230434554133
+      },
+      {
+        "id": "03fb2918-e1e7-4ec8-89ff-7bc5531e853d",
+        "takim": "France",
+        "oyuncu": "Kylian Mbappé Lottin",
+        "dakika": 80,
+        "saniye": 59,
+        "x": 104.8,
+        "y": 30.1,
+        "mesafe": 15.738558542636618,
+        "aci": 22.56321770465797,
+        "sonuc": "Goal",
+        "tur": "Open Play",
+        "gol": true,
+        "xg": 0.07285245358560406
+      },
+      {
+        "id": "fe277079-395a-4ff3-bb29-e99d93014014",
+        "takim": "Argentina",
+        "oyuncu": "Enzo Fernandez",
+        "dakika": 83,
+        "saniye": 23,
+        "x": 92.2,
+        "y": 35.9,
+        "mesafe": 24.573376853822914,
+        "aci": 16.7813272338467,
+        "sonuc": "Blocked",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.029468943462026366
+      },
+      {
+        "id": "5dbcde3d-ba75-483d-a65f-72d2b99ff713",
+        "takim": "France",
+        "oyuncu": "Kylian Mbappé Lottin",
+        "dakika": 92,
+        "saniye": 57,
+        "x": 95.9,
+        "y": 32.2,
+        "mesafe": 22.105192970204982,
+        "aci": 17.993934320659747,
+        "sonuc": "Blocked",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.037807633915124705
+      },
+      {
+        "id": "8d2a6599-cc25-41a2-acde-41d10194b5bd",
+        "takim": "France",
+        "oyuncu": "Adrien Rabiot",
+        "dakika": 93,
+        "saniye": 45,
+        "x": 108.9,
+        "y": 28.5,
+        "mesafe": 13.779814267616233,
+        "aci": 21.941325081850607,
+        "sonuc": "Saved",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.08549769526836827
+      },
+      {
+        "id": "867b8791-49c0-4d98-a976-c0b4cfc1cb5a",
+        "takim": "Argentina",
+        "oyuncu": "Lionel Andrés Messi Cuccittini",
+        "dakika": 96,
+        "saniye": 37,
+        "x": 96.2,
+        "y": 40.9,
+        "mesafe": 20.83904628335951,
+        "aci": 19.910362218437037,
+        "sonuc": "Saved",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.04396991157455301
+      },
+      {
+        "id": "d8c05bb0-ddb1-4ff2-9dbf-ba17b00a5359",
+        "takim": "Argentina",
+        "oyuncu": "Alexis Mac Allister",
+        "dakika": 92,
+        "saniye": 5,
+        "x": 98.2,
+        "y": 23.8,
+        "mesafe": 23.525911778292457,
+        "aci": 14.495688747595844,
+        "sonuc": "Off T",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.031082013703542067
+      },
+      {
+        "id": "db8267ad-256a-450d-997f-382a4d545634",
+        "takim": "France",
+        "oyuncu": "Youssouf Fofana",
+        "dakika": 99,
+        "saniye": 54,
+        "x": 89.8,
+        "y": 39.9,
+        "mesafe": 26.42513670730958,
+        "aci": 15.771030020477143,
+        "sonuc": "Blocked",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.02436647707388695
+      },
+      {
+        "id": "d3ba40fa-09d6-4488-b17d-672aaa2928d7",
+        "takim": "Argentina",
+        "oyuncu": "Lautaro Javier Martínez",
+        "dakika": 104,
+        "saniye": 28,
+        "x": 108.8,
+        "y": 45.3,
+        "mesafe": 10.785871545684198,
+        "aci": 34.871709418716854,
+        "sonuc": "Blocked",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.13772255995637797
+      },
+      {
+        "id": "a1654330-3747-4a25-b244-26ba2884c91c",
+        "takim": "Argentina",
+        "oyuncu": "Gonzalo Ariel Montiel",
+        "dakika": 104,
+        "saniye": 30,
+        "x": 96.3,
+        "y": 49.4,
+        "mesafe": 22.223501214930113,
+        "aci": 17.532650758398407,
+        "sonuc": "Blocked",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.03707972229673601
+      },
+      {
+        "id": "5d7d4f2f-62da-4de9-90e3-3660ba17c4f3",
+        "takim": "Argentina",
+        "oyuncu": "Lautaro Javier Martínez",
+        "dakika": 105,
+        "saniye": 41,
+        "x": 105.1,
+        "y": 33.5,
+        "mesafe": 14.159873984255656,
+        "aci": 27.02406514088078,
+        "sonuc": "Off T",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.09053496671138772
+      },
+      {
+        "id": "8bb8c7b5-9c14-4dfa-9279-0548ee8076db",
+        "takim": "Argentina",
+        "oyuncu": "Lionel Andrés Messi Cuccittini",
+        "dakika": 106,
+        "saniye": 55,
+        "x": 103.6,
+        "y": 55.8,
+        "mesafe": 19.654195480863624,
+        "aci": 15.732297518086572,
+        "sonuc": "Saved",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.04530001421511574
+      },
+      {
+        "id": "40cbfd91-87d9-4df8-a575-533b5c26767f",
+        "takim": "Argentina",
+        "oyuncu": "Lautaro Javier Martínez",
+        "dakika": 107,
+        "saniye": 57,
+        "x": 114.4,
+        "y": 52.0,
+        "mesafe": 11.315917991926238,
+        "aci": 17.37155071472395,
+        "sonuc": "Saved",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.09753347349741585
+      },
+      {
+        "id": "54b889ec-6026-49ea-a913-e883dbe6e301",
+        "takim": "Argentina",
+        "oyuncu": "Lionel Andrés Messi Cuccittini",
+        "dakika": 107,
+        "saniye": 58,
+        "x": 116.6,
+        "y": 43.0,
+        "mesafe": 3.9183063943494805,
+        "aci": 84.86351227155176,
+        "sonuc": "Goal",
+        "tur": "Open Play",
+        "gol": true,
+        "xg": 0.44756695538966723
+      },
+      {
+        "id": "08f2f203-cdc9-4146-99b6-818c5c32bf70",
+        "takim": "France",
+        "oyuncu": "Kylian Mbappé Lottin",
+        "dakika": 115,
+        "saniye": 38,
+        "x": 101.4,
+        "y": 26.6,
+        "mesafe": 19.86473571432552,
+        "aci": 17.354601226123275,
+        "sonuc": "Blocked",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.045802900328899006
+      },
+      {
+        "id": "d9b92dbd-4fea-4f48-b2fb-d7222eab2dbd",
+        "takim": "France",
+        "oyuncu": "Kylian Mbappé Lottin",
+        "dakika": 117,
+        "saniye": 5,
+        "x": 108.0,
+        "y": 40.0,
+        "mesafe": 10.5,
+        "aci": 38.43419035395734,
+        "sonuc": "Goal",
+        "tur": "Penalty",
+        "gol": true,
+        "xg": 0.6969230434554133
+      },
+      {
+        "id": "959edead-09fb-40b0-b6a3-72e73bd30d5a",
+        "takim": "France",
+        "oyuncu": "Randal Kolo Muani",
+        "dakika": 122,
+        "saniye": 44,
+        "x": 103.7,
+        "y": 45.1,
+        "mesafe": 14.906747842839495,
+        "aci": 26.563675807439274,
+        "sonuc": "Saved",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.08417332757210982
+      },
+      {
+        "id": "449f2702-ad18-4bc8-a9ef-59fb1dc1a707",
+        "takim": "Argentina",
+        "oyuncu": "Lautaro Javier Martínez",
+        "dakika": 122,
+        "saniye": 59,
+        "x": 110.8,
+        "y": 41.6,
+        "mesafe": 8.164073738030545,
+        "aci": 47.89316326076001,
+        "sonuc": "Off T",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.2087749317651044
+      }
+    ]
+  },
+  {
+    "id": 3869684,
+    "tarih": "2022-12-17",
+    "tur": "3rd Place Final",
+    "takimlar": [
+      {
+        "ad": "Croatia",
+        "form": {
+          "gecmis": [
+            {
+              "id": 3869519,
+              "tarih": "2022-12-13",
+              "rakip": "Argentina",
+              "xg": 0.8473836897849727,
+              "pas": 648,
+              "isabet": 559
+            },
+            {
+              "id": 3869420,
+              "tarih": "2022-12-09",
+              "rakip": "Brazil",
+              "xg": 0.8320987199885596,
+              "pas": 737,
+              "isabet": 639
+            },
+            {
+              "id": 3869219,
+              "tarih": "2022-12-05",
+              "rakip": "Japan",
+              "xg": 1.7031888377661915,
+              "pas": 796,
+              "isabet": 657
+            },
+            {
+              "id": 3857296,
+              "tarih": "2022-12-01",
+              "rakip": "Belgium",
+              "xg": 0.9433317348038698,
+              "pas": 609,
+              "isabet": 514
+            },
+            {
+              "id": 3857281,
+              "tarih": "2022-11-27",
+              "rakip": "Canada",
+              "xg": 1.4497888181429073,
+              "pas": 507,
+              "isabet": 411
+            }
+          ],
+          "xg": 1.1551583600973,
+          "oran": 84.3190779496512
+        },
+        "tahmin": {
+          "dizilis": "4-3-3",
+          "oyuncular": [
+            {
+              "id": 16531,
+              "ad": "Dominik Livaković",
+              "mevki": 1,
+              "numara": 1
+            },
+            {
+              "id": 29163,
+              "ad": "Josip Juranović",
+              "mevki": 2,
+              "numara": 22
+            },
+            {
+              "id": 3471,
+              "ad": "Dejan Lovren",
+              "mevki": 3,
+              "numara": 6
+            },
+            {
+              "id": 33018,
+              "ad": "Joško Gvardiol",
+              "mevki": 5,
+              "numara": 20
+            },
+            {
+              "id": 12625,
+              "ad": "Borna Sosa",
+              "mevki": 6,
+              "numara": 19
+            },
+            {
+              "id": 5469,
+              "ad": "Marcelo Brozović",
+              "mevki": 10,
+              "numara": 11
+            },
+            {
+              "id": 5463,
+              "ad": "Luka Modrić",
+              "mevki": 13,
+              "numara": 10
+            },
+            {
+              "id": 5456,
+              "ad": "Mateo Kovačić",
+              "mevki": 15,
+              "numara": 8
+            },
+            {
+              "id": 5460,
+              "ad": "Andrej Kramarić",
+              "mevki": 17,
+              "numara": 9
+            },
+            {
+              "id": 5474,
+              "ad": "Ivan Perišić",
+              "mevki": 21,
+              "numara": 4
+            },
+            {
+              "id": 22041,
+              "ad": "Marko Livaja",
+              "mevki": 23,
+              "numara": 14
+            }
+          ]
+        },
+        "gercek": {
+          "dizilis": "4-2-3-1",
+          "oyuncular": [
+            {
+              "id": 16531,
+              "ad": "Dominik Livaković",
+              "mevki": 1,
+              "numara": 1
+            },
+            {
+              "id": 49337,
+              "ad": "Josip Stanišić",
+              "mevki": 2,
+              "numara": 2
+            },
+            {
+              "id": 37148,
+              "ad": "Josip Šutalo",
+              "mevki": 3,
+              "numara": 24
+            },
+            {
+              "id": 33018,
+              "ad": "Joško Gvardiol",
+              "mevki": 5,
+              "numara": 20
+            },
+            {
+              "id": 5474,
+              "ad": "Ivan Perišić",
+              "mevki": 6,
+              "numara": 4
+            },
+            {
+              "id": 5463,
+              "ad": "Luka Modrić",
+              "mevki": 9,
+              "numara": 10
+            },
+            {
+              "id": 5456,
+              "ad": "Mateo Kovačić",
+              "mevki": 11,
+              "numara": 8
+            },
+            {
+              "id": 28914,
+              "ad": "Lovro Majer",
+              "mevki": 17,
+              "numara": 7
+            },
+            {
+              "id": 5460,
+              "ad": "Andrej Kramarić",
+              "mevki": 19,
+              "numara": 9
+            },
+            {
+              "id": 16527,
+              "ad": "Mislav Oršić",
+              "mevki": 21,
+              "numara": 18
+            },
+            {
+              "id": 22041,
+              "ad": "Marko Livaja",
+              "mevki": 23,
+              "numara": 14
+            }
+          ]
+        },
+        "gol": 2,
+        "xg": 0.8166599099789105,
+        "şut": 12,
+        "pas": 528,
+        "isabet": 439,
+        "oran": 83.14393939393939
+      },
+      {
+        "ad": "Morocco",
+        "form": {
+          "gecmis": [
+            {
+              "id": 3869552,
+              "tarih": "2022-12-14",
+              "rakip": "France",
+              "xg": 1.3729930965000876,
+              "pas": 615,
+              "isabet": 529
+            },
+            {
+              "id": 3869486,
+              "tarih": "2022-12-10",
+              "rakip": "Portugal",
+              "xg": 1.0115075448855215,
+              "pas": 249,
+              "isabet": 184
+            },
+            {
+              "id": 3869220,
+              "tarih": "2022-12-06",
+              "rakip": "Spain",
+              "xg": 0.6422928008801423,
+              "pas": 365,
+              "isabet": 250
+            },
+            {
+              "id": 3857276,
+              "tarih": "2022-12-01",
+              "rakip": "Canada",
+              "xg": 0.45799077153028916,
+              "pas": 393,
+              "isabet": 310
+            },
+            {
+              "id": 3857283,
+              "tarih": "2022-11-27",
+              "rakip": "Belgium",
+              "xg": 1.0244540257473576,
+              "pas": 347,
+              "isabet": 287
+            }
+          ],
+          "xg": 0.9018476479086797,
+          "oran": 79.2280345352971
+        },
+        "tahmin": {
+          "dizilis": "4-3-3",
+          "oyuncular": [
+            {
+              "id": 6785,
+              "ad": "Yassine Bounou",
+              "mevki": 1,
+              "numara": 1
+            },
+            {
+              "id": 5245,
+              "ad": "Achraf Hakimi Mouh",
+              "mevki": 2,
+              "numara": 2
+            },
+            {
+              "id": 12149,
+              "ad": "Nayef Aguerd",
+              "mevki": 3,
+              "numara": 5
+            },
+            {
+              "id": 5219,
+              "ad": "Romain Saïss",
+              "mevki": 5,
+              "numara": 6
+            },
+            {
+              "id": 15890,
+              "ad": "Noussair Mazraoui",
+              "mevki": 6,
+              "numara": 3
+            },
+            {
+              "id": 5234,
+              "ad": "Sofyan Amrabat",
+              "mevki": 10,
+              "numara": 4
+            },
+            {
+              "id": 46258,
+              "ad": "Azzedine Ounahi",
+              "mevki": 13,
+              "numara": 8
+            },
+            {
+              "id": 23774,
+              "ad": "Selim Amallah",
+              "mevki": 15,
+              "numara": 15
+            },
+            {
+              "id": 5237,
+              "ad": "Hakim Ziyech",
+              "mevki": 17,
+              "numara": 7
+            },
+            {
+              "id": 3625,
+              "ad": "Sofiane Boufal",
+              "mevki": 21,
+              "numara": 17
+            },
+            {
+              "id": 6301,
+              "ad": "Youssef En-Nesyri",
+              "mevki": 23,
+              "numara": 19
+            }
+          ]
+        },
+        "gercek": {
+          "dizilis": "4-3-3",
+          "oyuncular": [
+            {
+              "id": 6785,
+              "ad": "Yassine Bounou",
+              "mevki": 1,
+              "numara": 1
+            },
+            {
+              "id": 5245,
+              "ad": "Achraf Hakimi Mouh",
+              "mevki": 2,
+              "numara": 2
+            },
+            {
+              "id": 7459,
+              "ad": "Jawad El Yamiq",
+              "mevki": 3,
+              "numara": 18
+            },
+            {
+              "id": 139016,
+              "ad": "Achraf Dari",
+              "mevki": 5,
+              "numara": 20
+            },
+            {
+              "id": 31295,
+              "ad": "Yahia Attiyat allah",
+              "mevki": 6,
+              "numara": 25
+            },
+            {
+              "id": 5234,
+              "ad": "Sofyan Amrabat",
+              "mevki": 10,
+              "numara": 4
+            },
+            {
+              "id": 156734,
+              "ad": "Bilal El Khannous",
+              "mevki": 13,
+              "numara": 23
+            },
+            {
+              "id": 3634,
+              "ad": "Abdelhamid Sabiri",
+              "mevki": 15,
+              "numara": 11
+            },
+            {
+              "id": 5237,
+              "ad": "Hakim Ziyech",
+              "mevki": 17,
+              "numara": 7
+            },
+            {
+              "id": 3625,
+              "ad": "Sofiane Boufal",
+              "mevki": 21,
+              "numara": 17
+            },
+            {
+              "id": 6301,
+              "ad": "Youssef En-Nesyri",
+              "mevki": 23,
+              "numara": 19
+            }
+          ]
+        },
+        "gol": 1,
+        "xg": 1.5641698648008415,
+        "şut": 9,
+        "pas": 512,
+        "isabet": 431,
+        "oran": 84.1796875
+      }
+    ],
+    "sutlar": [
+      {
+        "id": "49c5d1ba-1fd9-4f18-a682-cbd2c57eb9dc",
+        "takim": "Croatia",
+        "oyuncu": "Joško Gvardiol",
+        "dakika": 6,
+        "saniye": 28,
+        "x": 108.8,
+        "y": 38.0,
+        "mesafe": 9.946356116689168,
+        "aci": 39.98589171649727,
+        "sonuc": "Goal",
+        "tur": "Open Play",
+        "gol": true,
+        "xg": 0.16040466809360457
+      },
+      {
+        "id": "8f0f46ee-6bec-4537-97eb-2b50633dc6ff",
+        "takim": "Morocco",
+        "oyuncu": "Achraf Dari",
+        "dakika": 8,
+        "saniye": 17,
+        "x": 115.6,
+        "y": 39.0,
+        "mesafe": 3.942714800743269,
+        "aci": 85.63857809635535,
+        "sonuc": "Goal",
+        "tur": "Open Play",
+        "gol": true,
+        "xg": 0.450722780981238
+      },
+      {
+        "id": "94591107-50c8-45bf-a895-3f8d69baf1b9",
+        "takim": "Croatia",
+        "oyuncu": "Mislav Oršić",
+        "dakika": 9,
+        "saniye": 35,
+        "x": 99.5,
+        "y": 23.8,
+        "mesafe": 22.613420932048296,
+        "aci": 14.771262129911868,
+        "sonuc": "Off T",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.03397386547245747
+      },
+      {
+        "id": "b8e38f4b-f179-450e-92af-2425135a5378",
+        "takim": "Croatia",
+        "oyuncu": "Josip Stanišić",
+        "dakika": 13,
+        "saniye": 55,
+        "x": 94.4,
+        "y": 41.3,
+        "mesafe": 22.427238461299684,
+        "aci": 18.516312513485868,
+        "sonuc": "Off T",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.037072360369103746
+      },
+      {
+        "id": "fd59c0c7-4722-4937-ac5b-8f8b70940c8a",
+        "takim": "Croatia",
+        "oyuncu": "Mislav Oršić",
+        "dakika": 17,
+        "saniye": 21,
+        "x": 104.9,
+        "y": 38.8,
+        "mesafe": 13.251813319315959,
+        "aci": 30.804163876117123,
+        "sonuc": "Blocked",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.10457049681804222
+      },
+      {
+        "id": "77d0be28-0294-4153-b921-b5639dde0cda",
+        "takim": "Croatia",
+        "oyuncu": "Andrej Kramarić",
+        "dakika": 17,
+        "saniye": 29,
+        "x": 111.3,
+        "y": 34.8,
+        "mesafe": 8.802644844022737,
+        "aci": 41.00513317798777,
+        "sonuc": "Saved",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.17845272993897204
+      },
+      {
+        "id": "fce15c71-a9fc-4d7e-80ea-a3a56d20cc65",
+        "takim": "Croatia",
+        "oyuncu": "Luka Modrić",
+        "dakika": 23,
+        "saniye": 25,
+        "x": 101.2,
+        "y": 49.5,
+        "mesafe": 18.325068212697055,
+        "aci": 20.479556350950038,
+        "sonuc": "Saved",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.055743001547841536
+      },
+      {
+        "id": "fec7cd9e-c5c4-4285-b789-18e335bfb90b",
+        "takim": "Morocco",
+        "oyuncu": "Sofiane Boufal",
+        "dakika": 32,
+        "saniye": 9,
+        "x": 112.4,
+        "y": 29.5,
+        "mesafe": 11.130055031310489,
+        "aci": 23.778028822190233,
+        "sonuc": "Off T",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.11078766585990611
+      },
+      {
+        "id": "3c475c86-ffd1-4e81-85c6-561f3063fc53",
+        "takim": "Morocco",
+        "oyuncu": "Youssef En-Nesyri",
+        "dakika": 36,
+        "saniye": 19,
+        "x": 117.8,
+        "y": 48.9,
+        "mesafe": 7.806077760309591,
+        "aci": 16.510229295758954,
+        "sonuc": "Off T",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.12913692616257266
+      },
+      {
+        "id": "b6da45bb-12a2-4dd6-bf3f-c6afdb5f6c8b",
+        "takim": "Morocco",
+        "oyuncu": "Hakim Ziyech",
+        "dakika": 39,
+        "saniye": 41,
+        "x": 90.6,
+        "y": 53.5,
+        "mesafe": 28.168266719839192,
+        "aci": 13.571663241026549,
+        "sonuc": "Off T",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.019877980321772685
+      },
+      {
+        "id": "40c60798-23de-4690-ab6b-47b58c1f58c4",
+        "takim": "Croatia",
+        "oyuncu": "Mislav Oršić",
+        "dakika": 41,
+        "saniye": 43,
+        "x": 106.5,
+        "y": 21.3,
+        "mesafe": 19.80369110166082,
+        "aci": 12.85872743324451,
+        "sonuc": "Goal",
+        "tur": "Open Play",
+        "gol": true,
+        "xg": 0.04236457434576491
+      },
+      {
+        "id": "5225c92f-256b-4741-894b-97a118001c70",
+        "takim": "Croatia",
+        "oyuncu": "Marko Livaja",
+        "dakika": 46,
+        "saniye": 36,
+        "x": 90.5,
+        "y": 39.5,
+        "mesafe": 25.815998552254374,
+        "aci": 16.13631378959444,
+        "sonuc": "Blocked",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.025958110865701385
+      },
+      {
+        "id": "0f2f2f1f-544d-4345-9225-558b6735cca7",
+        "takim": "Croatia",
+        "oyuncu": "Mislav Oršić",
+        "dakika": 46,
+        "saniye": 22,
+        "x": 100.8,
+        "y": 24.2,
+        "mesafe": 21.508251904792264,
+        "aci": 15.310233540743608,
+        "sonuc": "Blocked",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.03797028414923546
+      },
+      {
+        "id": "f543d203-8024-4f59-b8f3-d53fe943fd74",
+        "takim": "Croatia",
+        "oyuncu": "Mislav Oršić",
+        "dakika": 54,
+        "saniye": 5,
+        "x": 87.5,
+        "y": 26.6,
+        "mesafe": 30.63369886660767,
+        "aci": 12.682224115652218,
+        "sonuc": "Off T",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.015530115104494717
+      },
+      {
+        "id": "3d5d5149-d1b3-4625-b191-b66281462965",
+        "takim": "Morocco",
+        "oyuncu": "Youssef En-Nesyri",
+        "dakika": 64,
+        "saniye": 57,
+        "x": 110.6,
+        "y": 40.5,
+        "mesafe": 8.23597292370489,
+        "aci": 47.88195602523072,
+        "sonuc": "Blocked",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.2076142365660981
+      },
+      {
+        "id": "5197fe88-6b78-4d5f-91ef-76263510401f",
+        "takim": "Croatia",
+        "oyuncu": "Nikola Vlašić",
+        "dakika": 70,
+        "saniye": 24,
+        "x": 90.9,
+        "y": 36.9,
+        "mesafe": 25.598479080796963,
+        "aci": 16.191786693954676,
+        "sonuc": "Off T",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.026512993552785313
+      },
+      {
+        "id": "28905c96-a89e-4349-b755-383c251d2c97",
+        "takim": "Morocco",
+        "oyuncu": "Youssef En-Nesyri",
+        "dakika": 74,
+        "saniye": 35,
+        "x": 115.5,
+        "y": 48.3,
+        "mesafe": 8.079414041253237,
+        "aci": 29.054214380176326,
+        "sonuc": "Saved",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.15569359498871388
+      },
+      {
+        "id": "c4745e96-e4dd-4b6f-ad44-3a784219e86c",
+        "takim": "Croatia",
+        "oyuncu": "Mateo Kovačić",
+        "dakika": 86,
+        "saniye": 30,
+        "x": 110.3,
+        "y": 29.2,
+        "mesafe": 12.50240201921215,
+        "aci": 23.495794027199643,
+        "sonuc": "Off T",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.09810670972090692
+      },
+      {
+        "id": "0f4a2320-0810-46f0-b641-84ff2e237335",
+        "takim": "Morocco",
+        "oyuncu": "Youssef En-Nesyri",
+        "dakika": 89,
+        "saniye": 48,
+        "x": 110.9,
+        "y": 36.5,
+        "mesafe": 8.500119484454316,
+        "aci": 44.72075164157804,
+        "sonuc": "Blocked",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.19373757925540822
+      },
+      {
+        "id": "6da1657b-9d5d-495c-8527-6b9c4e4c6004",
+        "takim": "Morocco",
+        "oyuncu": "Hakim Ziyech",
+        "dakika": 90,
+        "saniye": 4,
+        "x": 89.6,
+        "y": 46.9,
+        "mesafe": 27.2389101287111,
+        "aci": 14.96288332102308,
+        "sonuc": "Off T",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.02225203952901328
+      },
+      {
+        "id": "a55f71e0-1590-4c8c-ac83-eca617abc950",
+        "takim": "Morocco",
+        "oyuncu": "Youssef En-Nesyri",
+        "dakika": 95,
+        "saniye": 31,
+        "x": 113.6,
+        "y": 43.4,
+        "mesafe": 6.301753724162826,
+        "aci": 57.29989734555476,
+        "sonuc": "Off T",
+        "tur": "Open Play",
+        "gol": false,
+        "xg": 0.27434706113611845
+      }
+    ]
+  }
+]

@@ -1,0 +1,2738 @@
+{
+  "3869519": {
+    "Argentina": {
+      "pas": 432,
+      "isabet": 358,
+      "kadro": {
+        "dizilis": "4-4-2",
+        "oyuncular": [
+          {
+            "id": 6909,
+            "ad": "Dami\u00e1n Emiliano Mart\u00ednez",
+            "mevki": 1,
+            "numara": 23
+          },
+          {
+            "id": 29201,
+            "ad": "Nahuel Molina Lucero",
+            "mevki": 2,
+            "numara": 26
+          },
+          {
+            "id": 20572,
+            "ad": "Cristian Gabriel Romero",
+            "mevki": 3,
+            "numara": 13
+          },
+          {
+            "id": 3090,
+            "ad": "Nicol\u00e1s Hern\u00e1n Otamendi",
+            "mevki": 5,
+            "numara": 19
+          },
+          {
+            "id": 5507,
+            "ad": "Nicol\u00e1s Alejandro Tagliafico",
+            "mevki": 6,
+            "numara": 3
+          },
+          {
+            "id": 16308,
+            "ad": "Leandro Daniel Paredes",
+            "mevki": 9,
+            "numara": 5
+          },
+          {
+            "id": 38718,
+            "ad": "Enzo Fernandez",
+            "mevki": 11,
+            "numara": 24
+          },
+          {
+            "id": 7797,
+            "ad": "Rodrigo Javier De Paul",
+            "mevki": 12,
+            "numara": 7
+          },
+          {
+            "id": 27886,
+            "ad": "Alexis Mac Allister",
+            "mevki": 16,
+            "numara": 20
+          },
+          {
+            "id": 5503,
+            "ad": "Lionel Andr\u00e9s Messi Cuccittini",
+            "mevki": 22,
+            "numara": 10
+          },
+          {
+            "id": 29560,
+            "ad": "Juli\u00e1n \u00c1lvarez",
+            "mevki": 24,
+            "numara": 9
+          }
+        ]
+      }
+    },
+    "Croatia": {
+      "pas": 648,
+      "isabet": 559,
+      "kadro": {
+        "dizilis": "4-3-3",
+        "oyuncular": [
+          {
+            "id": 16531,
+            "ad": "Dominik Livakovi\u0107",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 29163,
+            "ad": "Josip Juranovi\u0107",
+            "mevki": 2,
+            "numara": 22
+          },
+          {
+            "id": 3471,
+            "ad": "Dejan Lovren",
+            "mevki": 3,
+            "numara": 6
+          },
+          {
+            "id": 33018,
+            "ad": "Jo\u0161ko Gvardiol",
+            "mevki": 5,
+            "numara": 20
+          },
+          {
+            "id": 12625,
+            "ad": "Borna Sosa",
+            "mevki": 6,
+            "numara": 19
+          },
+          {
+            "id": 5469,
+            "ad": "Marcelo Brozovi\u0107",
+            "mevki": 10,
+            "numara": 11
+          },
+          {
+            "id": 5463,
+            "ad": "Luka Modri\u0107",
+            "mevki": 13,
+            "numara": 10
+          },
+          {
+            "id": 5456,
+            "ad": "Mateo Kova\u010di\u0107",
+            "mevki": 15,
+            "numara": 8
+          },
+          {
+            "id": 11603,
+            "ad": "Mario Pa\u0161ali\u0107",
+            "mevki": 17,
+            "numara": 15
+          },
+          {
+            "id": 5474,
+            "ad": "Ivan Peri\u0161i\u0107",
+            "mevki": 21,
+            "numara": 4
+          },
+          {
+            "id": 5460,
+            "ad": "Andrej Kramari\u0107",
+            "mevki": 23,
+            "numara": 9
+          }
+        ]
+      }
+    }
+  },
+  "3869321": {
+    "Netherlands": {
+      "pas": 691,
+      "isabet": 572,
+      "kadro": {
+        "dizilis": "3-4-1-2",
+        "oyuncular": [
+          {
+            "id": 8326,
+            "ad": "Andries Noppert",
+            "mevki": 1,
+            "numara": 23
+          },
+          {
+            "id": 21809,
+            "ad": "Jurri\u00ebn David Norman Timber",
+            "mevki": 3,
+            "numara": 2
+          },
+          {
+            "id": 3669,
+            "ad": "Virgil van Dijk",
+            "mevki": 4,
+            "numara": 4
+          },
+          {
+            "id": 3306,
+            "ad": "Nathan Ak\u00e9",
+            "mevki": 5,
+            "numara": 5
+          },
+          {
+            "id": 8125,
+            "ad": "Denzel Dumfries",
+            "mevki": 7,
+            "numara": 22
+          },
+          {
+            "id": 3311,
+            "ad": "Daley Blind",
+            "mevki": 8,
+            "numara": 17
+          },
+          {
+            "id": 6994,
+            "ad": "Marten de Roon",
+            "mevki": 9,
+            "numara": 15
+          },
+          {
+            "id": 8118,
+            "ad": "Frenkie de Jong",
+            "mevki": 11,
+            "numara": 21
+          },
+          {
+            "id": 20750,
+            "ad": "Cody Math\u00e8s Gakpo",
+            "mevki": 19,
+            "numara": 8
+          },
+          {
+            "id": 8259,
+            "ad": "Steven Bergwijn",
+            "mevki": 22,
+            "numara": 7
+          },
+          {
+            "id": 2988,
+            "ad": "Memphis Depay",
+            "mevki": 24,
+            "numara": 10
+          }
+        ]
+      }
+    },
+    "Argentina": {
+      "pas": 640,
+      "isabet": 531,
+      "kadro": {
+        "dizilis": "3-5-2",
+        "oyuncular": [
+          {
+            "id": 6909,
+            "ad": "Dami\u00e1n Emiliano Mart\u00ednez",
+            "mevki": 1,
+            "numara": 23
+          },
+          {
+            "id": 20572,
+            "ad": "Cristian Gabriel Romero",
+            "mevki": 3,
+            "numara": 13
+          },
+          {
+            "id": 3090,
+            "ad": "Nicol\u00e1s Hern\u00e1n Otamendi",
+            "mevki": 4,
+            "numara": 19
+          },
+          {
+            "id": 27768,
+            "ad": "Lisandro Mart\u00ednez",
+            "mevki": 5,
+            "numara": 25
+          },
+          {
+            "id": 29201,
+            "ad": "Nahuel Molina Lucero",
+            "mevki": 7,
+            "numara": 26
+          },
+          {
+            "id": 19597,
+            "ad": "Marcos Javier Acu\u00f1a",
+            "mevki": 8,
+            "numara": 8
+          },
+          {
+            "id": 38718,
+            "ad": "Enzo Fernandez",
+            "mevki": 10,
+            "numara": 24
+          },
+          {
+            "id": 7797,
+            "ad": "Rodrigo Javier De Paul",
+            "mevki": 13,
+            "numara": 7
+          },
+          {
+            "id": 27886,
+            "ad": "Alexis Mac Allister",
+            "mevki": 15,
+            "numara": 20
+          },
+          {
+            "id": 5503,
+            "ad": "Lionel Andr\u00e9s Messi Cuccittini",
+            "mevki": 22,
+            "numara": 10
+          },
+          {
+            "id": 29560,
+            "ad": "Juli\u00e1n \u00c1lvarez",
+            "mevki": 24,
+            "numara": 9
+          }
+        ]
+      }
+    }
+  },
+  "3869151": {
+    "Argentina": {
+      "pas": 728,
+      "isabet": 646,
+      "kadro": {
+        "dizilis": "4-3-3",
+        "oyuncular": [
+          {
+            "id": 6909,
+            "ad": "Dami\u00e1n Emiliano Mart\u00ednez",
+            "mevki": 1,
+            "numara": 23
+          },
+          {
+            "id": 29201,
+            "ad": "Nahuel Molina Lucero",
+            "mevki": 2,
+            "numara": 26
+          },
+          {
+            "id": 20572,
+            "ad": "Cristian Gabriel Romero",
+            "mevki": 3,
+            "numara": 13
+          },
+          {
+            "id": 3090,
+            "ad": "Nicol\u00e1s Hern\u00e1n Otamendi",
+            "mevki": 5,
+            "numara": 19
+          },
+          {
+            "id": 19597,
+            "ad": "Marcos Javier Acu\u00f1a",
+            "mevki": 6,
+            "numara": 8
+          },
+          {
+            "id": 38718,
+            "ad": "Enzo Fernandez",
+            "mevki": 10,
+            "numara": 24
+          },
+          {
+            "id": 7797,
+            "ad": "Rodrigo Javier De Paul",
+            "mevki": 13,
+            "numara": 7
+          },
+          {
+            "id": 27886,
+            "ad": "Alexis Mac Allister",
+            "mevki": 15,
+            "numara": 20
+          },
+          {
+            "id": 29560,
+            "ad": "Juli\u00e1n \u00c1lvarez",
+            "mevki": 17,
+            "numara": 9
+          },
+          {
+            "id": 7006,
+            "ad": "Alejandro Dar\u00edo G\u00f3mez",
+            "mevki": 21,
+            "numara": 17
+          },
+          {
+            "id": 5503,
+            "ad": "Lionel Andr\u00e9s Messi Cuccittini",
+            "mevki": 23,
+            "numara": 10
+          }
+        ]
+      }
+    },
+    "Australia": {
+      "pas": 478,
+      "isabet": 384,
+      "kadro": {
+        "dizilis": "4-4-2",
+        "oyuncular": [
+          {
+            "id": 3240,
+            "ad": "Mathew Ryan",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 15957,
+            "ad": "Milo\u0161 Degenek",
+            "mevki": 2,
+            "numara": 2
+          },
+          {
+            "id": 22293,
+            "ad": "Harry Souttar",
+            "mevki": 3,
+            "numara": 19
+          },
+          {
+            "id": 33495,
+            "ad": "Kye Rowles",
+            "mevki": 5,
+            "numara": 4
+          },
+          {
+            "id": 5479,
+            "ad": "Aziz Eraltay Behich",
+            "mevki": 6,
+            "numara": 16
+          },
+          {
+            "id": 33488,
+            "ad": "Keanu Baccus",
+            "mevki": 9,
+            "numara": 26
+          },
+          {
+            "id": 3281,
+            "ad": "Aaron Mooy",
+            "mevki": 11,
+            "numara": 13
+          },
+          {
+            "id": 5481,
+            "ad": "Mathew Leckie",
+            "mevki": 12,
+            "numara": 7
+          },
+          {
+            "id": 33477,
+            "ad": "Riley McGree",
+            "mevki": 16,
+            "numara": 14
+          },
+          {
+            "id": 33492,
+            "ad": "Mitchell Thomas Duke",
+            "mevki": 22,
+            "numara": 15
+          },
+          {
+            "id": 5490,
+            "ad": "Jackson Irvine",
+            "mevki": 24,
+            "numara": 22
+          }
+        ]
+      }
+    }
+  },
+  "3857264": {
+    "Poland": {
+      "pas": 337,
+      "isabet": 267,
+      "kadro": {
+        "dizilis": "4-4-2",
+        "oyuncular": [
+          {
+            "id": 5669,
+            "ad": "Wojciech Szcz\u0119sny",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 4734,
+            "ad": "Matty Cash",
+            "mevki": 2,
+            "numara": 2
+          },
+          {
+            "id": 3034,
+            "ad": "Kamil Glik",
+            "mevki": 3,
+            "numara": 15
+          },
+          {
+            "id": 44166,
+            "ad": "Jakub Piotr Kiwior",
+            "mevki": 5,
+            "numara": 14
+          },
+          {
+            "id": 5673,
+            "ad": "Bartosz Bereszy\u0144ski",
+            "mevki": 6,
+            "numara": 18
+          },
+          {
+            "id": 11737,
+            "ad": "Krystian Bielik",
+            "mevki": 9,
+            "numara": 6
+          },
+          {
+            "id": 3637,
+            "ad": "Grzegorz Krychowiak",
+            "mevki": 11,
+            "numara": 10
+          },
+          {
+            "id": 5660,
+            "ad": "Piotr Zieli\u0144ski",
+            "mevki": 12,
+            "numara": 20
+          },
+          {
+            "id": 7979,
+            "ad": "Przemys\u0142aw Frankowski",
+            "mevki": 16,
+            "numara": 24
+          },
+          {
+            "id": 5668,
+            "ad": "Robert Lewandowski",
+            "mevki": 22,
+            "numara": 9
+          },
+          {
+            "id": 8836,
+            "ad": "Karol \u015awiderski",
+            "mevki": 24,
+            "numara": 16
+          }
+        ]
+      }
+    },
+    "Argentina": {
+      "pas": 909,
+      "isabet": 826,
+      "kadro": {
+        "dizilis": "4-3-3",
+        "oyuncular": [
+          {
+            "id": 6909,
+            "ad": "Dami\u00e1n Emiliano Mart\u00ednez",
+            "mevki": 1,
+            "numara": 23
+          },
+          {
+            "id": 29201,
+            "ad": "Nahuel Molina Lucero",
+            "mevki": 2,
+            "numara": 26
+          },
+          {
+            "id": 20572,
+            "ad": "Cristian Gabriel Romero",
+            "mevki": 3,
+            "numara": 13
+          },
+          {
+            "id": 3090,
+            "ad": "Nicol\u00e1s Hern\u00e1n Otamendi",
+            "mevki": 5,
+            "numara": 19
+          },
+          {
+            "id": 19597,
+            "ad": "Marcos Javier Acu\u00f1a",
+            "mevki": 6,
+            "numara": 8
+          },
+          {
+            "id": 38718,
+            "ad": "Enzo Fernandez",
+            "mevki": 10,
+            "numara": 24
+          },
+          {
+            "id": 7797,
+            "ad": "Rodrigo Javier De Paul",
+            "mevki": 13,
+            "numara": 7
+          },
+          {
+            "id": 27886,
+            "ad": "Alexis Mac Allister",
+            "mevki": 15,
+            "numara": 20
+          },
+          {
+            "id": 2995,
+            "ad": "\u00c1ngel Fabi\u00e1n Di Mar\u00eda Hern\u00e1ndez",
+            "mevki": 17,
+            "numara": 11
+          },
+          {
+            "id": 29560,
+            "ad": "Juli\u00e1n \u00c1lvarez",
+            "mevki": 21,
+            "numara": 9
+          },
+          {
+            "id": 5503,
+            "ad": "Lionel Andr\u00e9s Messi Cuccittini",
+            "mevki": 23,
+            "numara": 10
+          }
+        ]
+      }
+    }
+  },
+  "3857289": {
+    "Argentina": {
+      "pas": 567,
+      "isabet": 476,
+      "kadro": {
+        "dizilis": "4-4-2",
+        "oyuncular": [
+          {
+            "id": 6909,
+            "ad": "Dami\u00e1n Emiliano Mart\u00ednez",
+            "mevki": 1,
+            "numara": 23
+          },
+          {
+            "id": 28263,
+            "ad": "Gonzalo Ariel Montiel",
+            "mevki": 2,
+            "numara": 4
+          },
+          {
+            "id": 3090,
+            "ad": "Nicol\u00e1s Hern\u00e1n Otamendi",
+            "mevki": 3,
+            "numara": 19
+          },
+          {
+            "id": 27768,
+            "ad": "Lisandro Mart\u00ednez",
+            "mevki": 5,
+            "numara": 25
+          },
+          {
+            "id": 19597,
+            "ad": "Marcos Javier Acu\u00f1a",
+            "mevki": 6,
+            "numara": 8
+          },
+          {
+            "id": 7797,
+            "ad": "Rodrigo Javier De Paul",
+            "mevki": 9,
+            "numara": 7
+          },
+          {
+            "id": 26404,
+            "ad": "Guido Rodr\u00edguez",
+            "mevki": 11,
+            "numara": 18
+          },
+          {
+            "id": 2995,
+            "ad": "\u00c1ngel Fabi\u00e1n Di Mar\u00eda Hern\u00e1ndez",
+            "mevki": 12,
+            "numara": 11
+          },
+          {
+            "id": 27886,
+            "ad": "Alexis Mac Allister",
+            "mevki": 16,
+            "numara": 20
+          },
+          {
+            "id": 5503,
+            "ad": "Lionel Andr\u00e9s Messi Cuccittini",
+            "mevki": 22,
+            "numara": 10
+          },
+          {
+            "id": 11456,
+            "ad": "Lautaro Javier Mart\u00ednez",
+            "mevki": 24,
+            "numara": 22
+          }
+        ]
+      }
+    },
+    "Mexico": {
+      "pas": 403,
+      "isabet": 304,
+      "kadro": {
+        "dizilis": "3-5-2",
+        "oyuncular": [
+          {
+            "id": 5577,
+            "ad": "Francisco Guillermo Ochoa Maga\u00f1a",
+            "mevki": 1,
+            "numara": 13
+          },
+          {
+            "id": 11388,
+            "ad": "N\u00e9stor Alejandro Ara\u00fajo Razo",
+            "mevki": 3,
+            "numara": 2
+          },
+          {
+            "id": 26368,
+            "ad": "C\u00e9sar Jasib Montes Castro",
+            "mevki": 4,
+            "numara": 3
+          },
+          {
+            "id": 5573,
+            "ad": "H\u00e9ctor Alfredo Moreno Herrera",
+            "mevki": 5,
+            "numara": 15
+          },
+          {
+            "id": 30500,
+            "ad": "Kevin Nahin \u00c1lvarez Campos",
+            "mevki": 7,
+            "numara": 26
+          },
+          {
+            "id": 5576,
+            "ad": "Jes\u00fas Daniel Gallardo Vasconcelos",
+            "mevki": 8,
+            "numara": 23
+          },
+          {
+            "id": 5575,
+            "ad": "H\u00e9ctor Miguel Herrera L\u00f3pez",
+            "mevki": 10,
+            "numara": 16
+          },
+          {
+            "id": 28825,
+            "ad": "Luis Gerardo Ch\u00e1vez Magall\u00f3n",
+            "mevki": 13,
+            "numara": 24
+          },
+          {
+            "id": 5563,
+            "ad": "Jos\u00e9 Andr\u00e9s Guardado Hern\u00e1ndez",
+            "mevki": 15,
+            "numara": 18
+          },
+          {
+            "id": 5571,
+            "ad": "Hirving Rodrigo Lozano Bahena",
+            "mevki": 22,
+            "numara": 22
+          },
+          {
+            "id": 26301,
+            "ad": "Ernesto Alexis Vega Rojas",
+            "mevki": 24,
+            "numara": 10
+          }
+        ]
+      }
+    }
+  },
+  "3869552": {
+    "France": {
+      "pas": 387,
+      "isabet": 316,
+      "kadro": {
+        "dizilis": "4-2-3-1",
+        "oyuncular": [
+          {
+            "id": 3099,
+            "ad": "Hugo Lloris",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 4445,
+            "ad": "Jules Kound\u00e9",
+            "mevki": 2,
+            "numara": 5
+          },
+          {
+            "id": 5485,
+            "ad": "Rapha\u00ebl Varane",
+            "mevki": 3,
+            "numara": 4
+          },
+          {
+            "id": 11135,
+            "ad": "Ibrahima Konat\u00e9",
+            "mevki": 5,
+            "numara": 24
+          },
+          {
+            "id": 6704,
+            "ad": "Theo Bernard Fran\u00e7ois Hern\u00e1ndez",
+            "mevki": 6,
+            "numara": 22
+          },
+          {
+            "id": 10481,
+            "ad": "Aur\u00e9lien Djani Tchouam\u00e9ni",
+            "mevki": 9,
+            "numara": 8
+          },
+          {
+            "id": 11990,
+            "ad": "Youssouf Fofana",
+            "mevki": 11,
+            "numara": 13
+          },
+          {
+            "id": 5477,
+            "ad": "Ousmane Demb\u00e9l\u00e9",
+            "mevki": 17,
+            "numara": 11
+          },
+          {
+            "id": 5487,
+            "ad": "Antoine Griezmann",
+            "mevki": 19,
+            "numara": 7
+          },
+          {
+            "id": 3009,
+            "ad": "Kylian Mbapp\u00e9 Lottin",
+            "mevki": 21,
+            "numara": 10
+          },
+          {
+            "id": 3604,
+            "ad": "Olivier Giroud",
+            "mevki": 23,
+            "numara": 9
+          }
+        ]
+      }
+    },
+    "Morocco": {
+      "pas": 615,
+      "isabet": 529,
+      "kadro": {
+        "dizilis": "3-4-3",
+        "oyuncular": [
+          {
+            "id": 6785,
+            "ad": "Yassine Bounou",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 139016,
+            "ad": "Achraf Dari",
+            "mevki": 3,
+            "numara": 20
+          },
+          {
+            "id": 5219,
+            "ad": "Romain Sa\u00efss",
+            "mevki": 4,
+            "numara": 6
+          },
+          {
+            "id": 7459,
+            "ad": "Jawad El Yamiq",
+            "mevki": 5,
+            "numara": 18
+          },
+          {
+            "id": 5245,
+            "ad": "Achraf Hakimi Mouh",
+            "mevki": 7,
+            "numara": 2
+          },
+          {
+            "id": 15890,
+            "ad": "Noussair Mazraoui",
+            "mevki": 8,
+            "numara": 3
+          },
+          {
+            "id": 5234,
+            "ad": "Sofyan Amrabat",
+            "mevki": 9,
+            "numara": 4
+          },
+          {
+            "id": 46258,
+            "ad": "Azzedine Ounahi",
+            "mevki": 11,
+            "numara": 8
+          },
+          {
+            "id": 5237,
+            "ad": "Hakim Ziyech",
+            "mevki": 17,
+            "numara": 7
+          },
+          {
+            "id": 3625,
+            "ad": "Sofiane Boufal",
+            "mevki": 21,
+            "numara": 17
+          },
+          {
+            "id": 6301,
+            "ad": "Youssef En-Nesyri",
+            "mevki": 23,
+            "numara": 19
+          }
+        ]
+      }
+    }
+  },
+  "3869354": {
+    "England": {
+      "pas": 554,
+      "isabet": 465,
+      "kadro": {
+        "dizilis": "4-3-3",
+        "oyuncular": [
+          {
+            "id": 3468,
+            "ad": "Jordan Pickford",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 3205,
+            "ad": "Kyle Walker",
+            "mevki": 2,
+            "numara": 2
+          },
+          {
+            "id": 3244,
+            "ad": "John Stones",
+            "mevki": 3,
+            "numara": 5
+          },
+          {
+            "id": 3336,
+            "ad": "Harry Maguire",
+            "mevki": 5,
+            "numara": 6
+          },
+          {
+            "id": 3382,
+            "ad": "Luke Shaw",
+            "mevki": 6,
+            "numara": 3
+          },
+          {
+            "id": 3943,
+            "ad": "Declan Rice",
+            "mevki": 10,
+            "numara": 4
+          },
+          {
+            "id": 3532,
+            "ad": "Jordan Brian Henderson",
+            "mevki": 13,
+            "numara": 8
+          },
+          {
+            "id": 30714,
+            "ad": "Jude Bellingham",
+            "mevki": 15,
+            "numara": 22
+          },
+          {
+            "id": 22084,
+            "ad": "Bukayo Saka",
+            "mevki": 17,
+            "numara": 17
+          },
+          {
+            "id": 4354,
+            "ad": "Philip Foden",
+            "mevki": 21,
+            "numara": 20
+          },
+          {
+            "id": 10955,
+            "ad": "Harry Kane",
+            "mevki": 23,
+            "numara": 9
+          }
+        ]
+      }
+    },
+    "France": {
+      "pas": 412,
+      "isabet": 328,
+      "kadro": {
+        "dizilis": "4-2-3-1",
+        "oyuncular": [
+          {
+            "id": 3099,
+            "ad": "Hugo Lloris",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 4445,
+            "ad": "Jules Kound\u00e9",
+            "mevki": 2,
+            "numara": 5
+          },
+          {
+            "id": 5485,
+            "ad": "Rapha\u00ebl Varane",
+            "mevki": 3,
+            "numara": 4
+          },
+          {
+            "id": 8519,
+            "ad": "Dayotchanculle Upamecano",
+            "mevki": 5,
+            "numara": 18
+          },
+          {
+            "id": 6704,
+            "ad": "Theo Bernard Fran\u00e7ois Hern\u00e1ndez",
+            "mevki": 6,
+            "numara": 22
+          },
+          {
+            "id": 10481,
+            "ad": "Aur\u00e9lien Djani Tchouam\u00e9ni",
+            "mevki": 9,
+            "numara": 8
+          },
+          {
+            "id": 3026,
+            "ad": "Adrien Rabiot",
+            "mevki": 11,
+            "numara": 14
+          },
+          {
+            "id": 5477,
+            "ad": "Ousmane Demb\u00e9l\u00e9",
+            "mevki": 17,
+            "numara": 11
+          },
+          {
+            "id": 5487,
+            "ad": "Antoine Griezmann",
+            "mevki": 19,
+            "numara": 7
+          },
+          {
+            "id": 3009,
+            "ad": "Kylian Mbapp\u00e9 Lottin",
+            "mevki": 21,
+            "numara": 10
+          },
+          {
+            "id": 3604,
+            "ad": "Olivier Giroud",
+            "mevki": 23,
+            "numara": 9
+          }
+        ]
+      }
+    }
+  },
+  "3869152": {
+    "France": {
+      "pas": 593,
+      "isabet": 505,
+      "kadro": {
+        "dizilis": "4-2-3-1",
+        "oyuncular": [
+          {
+            "id": 3099,
+            "ad": "Hugo Lloris",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 4445,
+            "ad": "Jules Kound\u00e9",
+            "mevki": 2,
+            "numara": 5
+          },
+          {
+            "id": 5485,
+            "ad": "Rapha\u00ebl Varane",
+            "mevki": 3,
+            "numara": 4
+          },
+          {
+            "id": 8519,
+            "ad": "Dayotchanculle Upamecano",
+            "mevki": 5,
+            "numara": 18
+          },
+          {
+            "id": 6704,
+            "ad": "Theo Bernard Fran\u00e7ois Hern\u00e1ndez",
+            "mevki": 6,
+            "numara": 22
+          },
+          {
+            "id": 10481,
+            "ad": "Aur\u00e9lien Djani Tchouam\u00e9ni",
+            "mevki": 9,
+            "numara": 8
+          },
+          {
+            "id": 3026,
+            "ad": "Adrien Rabiot",
+            "mevki": 11,
+            "numara": 14
+          },
+          {
+            "id": 5477,
+            "ad": "Ousmane Demb\u00e9l\u00e9",
+            "mevki": 17,
+            "numara": 11
+          },
+          {
+            "id": 5487,
+            "ad": "Antoine Griezmann",
+            "mevki": 19,
+            "numara": 7
+          },
+          {
+            "id": 3009,
+            "ad": "Kylian Mbapp\u00e9 Lottin",
+            "mevki": 21,
+            "numara": 10
+          },
+          {
+            "id": 3604,
+            "ad": "Olivier Giroud",
+            "mevki": 23,
+            "numara": 9
+          }
+        ]
+      }
+    },
+    "Poland": {
+      "pas": 488,
+      "isabet": 406,
+      "kadro": {
+        "dizilis": "4-1-4-1",
+        "oyuncular": [
+          {
+            "id": 5669,
+            "ad": "Wojciech Szcz\u0119sny",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 4734,
+            "ad": "Matty Cash",
+            "mevki": 2,
+            "numara": 2
+          },
+          {
+            "id": 3034,
+            "ad": "Kamil Glik",
+            "mevki": 3,
+            "numara": 15
+          },
+          {
+            "id": 44166,
+            "ad": "Jakub Piotr Kiwior",
+            "mevki": 5,
+            "numara": 14
+          },
+          {
+            "id": 5673,
+            "ad": "Bartosz Bereszy\u0144ski",
+            "mevki": 6,
+            "numara": 18
+          },
+          {
+            "id": 3637,
+            "ad": "Grzegorz Krychowiak",
+            "mevki": 10,
+            "numara": 10
+          },
+          {
+            "id": 31955,
+            "ad": "Jakub Kami\u0144ski",
+            "mevki": 12,
+            "numara": 13
+          },
+          {
+            "id": 5660,
+            "ad": "Piotr Zieli\u0144ski",
+            "mevki": 13,
+            "numara": 20
+          },
+          {
+            "id": 4664,
+            "ad": "Sebastian Szyma\u0144ski",
+            "mevki": 15,
+            "numara": 19
+          },
+          {
+            "id": 7979,
+            "ad": "Przemys\u0142aw Frankowski",
+            "mevki": 16,
+            "numara": 24
+          },
+          {
+            "id": 5668,
+            "ad": "Robert Lewandowski",
+            "mevki": 23,
+            "numara": 9
+          }
+        ]
+      }
+    }
+  },
+  "3857275": {
+    "Tunisia": {
+      "pas": 361,
+      "isabet": 275,
+      "kadro": {
+        "dizilis": "3-4-2-1",
+        "oyuncular": [
+          {
+            "id": 105943,
+            "ad": "Aymen Dahmen",
+            "mevki": 1,
+            "numara": 16
+          },
+          {
+            "id": 5651,
+            "ad": "Yassine Meriah",
+            "mevki": 3,
+            "numara": 4
+          },
+          {
+            "id": 25582,
+            "ad": "Nader Ghandri",
+            "mevki": 4,
+            "numara": 5
+          },
+          {
+            "id": 32450,
+            "ad": "Montassar Omar Talbi",
+            "mevki": 5,
+            "numara": 3
+          },
+          {
+            "id": 105944,
+            "ad": "Wajdi Kechrida",
+            "mevki": 7,
+            "numara": 21
+          },
+          {
+            "id": 5647,
+            "ad": "Ali Ma\u00e2loul",
+            "mevki": 8,
+            "numara": 12
+          },
+          {
+            "id": 3767,
+            "ad": "Ellyes Joris Skhiri",
+            "mevki": 9,
+            "numara": 17
+          },
+          {
+            "id": 44955,
+            "ad": "A\u00efssa Bilal La\u00efdouni",
+            "mevki": 11,
+            "numara": 14
+          },
+          {
+            "id": 35592,
+            "ad": "Anis Ben Slimane",
+            "mevki": 18,
+            "numara": 25
+          },
+          {
+            "id": 102816,
+            "ad": "Mohamed Ali Ben Romdhane",
+            "mevki": 20,
+            "numara": 15
+          },
+          {
+            "id": 3196,
+            "ad": "Wahbi Khazri",
+            "mevki": 23,
+            "numara": 10
+          }
+        ]
+      }
+    },
+    "France": {
+      "pas": 661,
+      "isabet": 564,
+      "kadro": {
+        "dizilis": "4-3-3",
+        "oyuncular": [
+          {
+            "id": 3543,
+            "ad": "Steve Mandanda",
+            "mevki": 1,
+            "numara": 16
+          },
+          {
+            "id": 7439,
+            "ad": "Axel Disasi",
+            "mevki": 2,
+            "numara": 3
+          },
+          {
+            "id": 5485,
+            "ad": "Rapha\u00ebl Varane",
+            "mevki": 3,
+            "numara": 4
+          },
+          {
+            "id": 11135,
+            "ad": "Ibrahima Konat\u00e9",
+            "mevki": 5,
+            "numara": 24
+          },
+          {
+            "id": 24778,
+            "ad": "Eduardo Camavinga",
+            "mevki": 6,
+            "numara": 25
+          },
+          {
+            "id": 10481,
+            "ad": "Aur\u00e9lien Djani Tchouam\u00e9ni",
+            "mevki": 10,
+            "numara": 8
+          },
+          {
+            "id": 11990,
+            "ad": "Youssouf Fofana",
+            "mevki": 13,
+            "numara": 13
+          },
+          {
+            "id": 7153,
+            "ad": "Jordan Veretout",
+            "mevki": 15,
+            "numara": 15
+          },
+          {
+            "id": 8217,
+            "ad": "Kingsley Coman",
+            "mevki": 17,
+            "numara": 20
+          },
+          {
+            "id": 7345,
+            "ad": "Matt\u00e9o Guendouzi Oli\u00e9",
+            "mevki": 21,
+            "numara": 6
+          },
+          {
+            "id": 22097,
+            "ad": "Randal Kolo Muani",
+            "mevki": 23,
+            "numara": 12
+          }
+        ]
+      }
+    }
+  },
+  "3857266": {
+    "France": {
+      "pas": 540,
+      "isabet": 464,
+      "kadro": {
+        "dizilis": "4-2-3-1",
+        "oyuncular": [
+          {
+            "id": 3099,
+            "ad": "Hugo Lloris",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 4445,
+            "ad": "Jules Kound\u00e9",
+            "mevki": 2,
+            "numara": 5
+          },
+          {
+            "id": 5485,
+            "ad": "Rapha\u00ebl Varane",
+            "mevki": 3,
+            "numara": 4
+          },
+          {
+            "id": 8519,
+            "ad": "Dayotchanculle Upamecano",
+            "mevki": 5,
+            "numara": 18
+          },
+          {
+            "id": 6704,
+            "ad": "Theo Bernard Fran\u00e7ois Hern\u00e1ndez",
+            "mevki": 6,
+            "numara": 22
+          },
+          {
+            "id": 10481,
+            "ad": "Aur\u00e9lien Djani Tchouam\u00e9ni",
+            "mevki": 9,
+            "numara": 8
+          },
+          {
+            "id": 3026,
+            "ad": "Adrien Rabiot",
+            "mevki": 11,
+            "numara": 14
+          },
+          {
+            "id": 5477,
+            "ad": "Ousmane Demb\u00e9l\u00e9",
+            "mevki": 17,
+            "numara": 11
+          },
+          {
+            "id": 5487,
+            "ad": "Antoine Griezmann",
+            "mevki": 19,
+            "numara": 7
+          },
+          {
+            "id": 3009,
+            "ad": "Kylian Mbapp\u00e9 Lottin",
+            "mevki": 21,
+            "numara": 10
+          },
+          {
+            "id": 3604,
+            "ad": "Olivier Giroud",
+            "mevki": 23,
+            "numara": 9
+          }
+        ]
+      }
+    },
+    "Denmark": {
+      "pas": 567,
+      "isabet": 479,
+      "kadro": {
+        "dizilis": "3-4-3",
+        "oyuncular": [
+          {
+            "id": 3815,
+            "ad": "Kasper Schmeichel",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 8247,
+            "ad": "Joachim Andersen",
+            "mevki": 3,
+            "numara": 2
+          },
+          {
+            "id": 3959,
+            "ad": "Andreas Christensen",
+            "mevki": 4,
+            "numara": 6
+          },
+          {
+            "id": 17043,
+            "ad": "Victor Nelsson",
+            "mevki": 5,
+            "numara": 3
+          },
+          {
+            "id": 16190,
+            "ad": "Rasmus Nissen Kristensen",
+            "mevki": 7,
+            "numara": 13
+          },
+          {
+            "id": 16554,
+            "ad": "Joakim M\u00e6hle",
+            "mevki": 8,
+            "numara": 5
+          },
+          {
+            "id": 3570,
+            "ad": "Pierre-Emile H\u00f8jbjerg",
+            "mevki": 9,
+            "numara": 23
+          },
+          {
+            "id": 3043,
+            "ad": "Christian Dannemann Eriksen",
+            "mevki": 11,
+            "numara": 10
+          },
+          {
+            "id": 27569,
+            "ad": "Jesper Lindstr\u00f8m",
+            "mevki": 17,
+            "numara": 25
+          },
+          {
+            "id": 24443,
+            "ad": "Mikkel Damsgaard",
+            "mevki": 21,
+            "numara": 14
+          },
+          {
+            "id": 5732,
+            "ad": "Andreas Evald Cornelius",
+            "mevki": 23,
+            "numara": 21
+          }
+        ]
+      }
+    }
+  },
+  "3869420": {
+    "Croatia": {
+      "pas": 737,
+      "isabet": 639,
+      "kadro": {
+        "dizilis": "4-3-3",
+        "oyuncular": [
+          {
+            "id": 16531,
+            "ad": "Dominik Livakovi\u0107",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 29163,
+            "ad": "Josip Juranovi\u0107",
+            "mevki": 2,
+            "numara": 22
+          },
+          {
+            "id": 3471,
+            "ad": "Dejan Lovren",
+            "mevki": 3,
+            "numara": 6
+          },
+          {
+            "id": 33018,
+            "ad": "Jo\u0161ko Gvardiol",
+            "mevki": 5,
+            "numara": 20
+          },
+          {
+            "id": 12625,
+            "ad": "Borna Sosa",
+            "mevki": 6,
+            "numara": 19
+          },
+          {
+            "id": 5469,
+            "ad": "Marcelo Brozovi\u0107",
+            "mevki": 10,
+            "numara": 11
+          },
+          {
+            "id": 5463,
+            "ad": "Luka Modri\u0107",
+            "mevki": 13,
+            "numara": 10
+          },
+          {
+            "id": 5456,
+            "ad": "Mateo Kova\u010di\u0107",
+            "mevki": 15,
+            "numara": 8
+          },
+          {
+            "id": 11603,
+            "ad": "Mario Pa\u0161ali\u0107",
+            "mevki": 17,
+            "numara": 15
+          },
+          {
+            "id": 5474,
+            "ad": "Ivan Peri\u0161i\u0107",
+            "mevki": 21,
+            "numara": 4
+          },
+          {
+            "id": 5460,
+            "ad": "Andrej Kramari\u0107",
+            "mevki": 23,
+            "numara": 9
+          }
+        ]
+      }
+    },
+    "Brazil": {
+      "pas": 747,
+      "isabet": 652,
+      "kadro": {
+        "dizilis": "4-4-1-1",
+        "oyuncular": [
+          {
+            "id": 5547,
+            "ad": "Alisson Rams\u00e9s Becker",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 13620,
+            "ad": "\u00c9der Gabriel Milit\u00e3o",
+            "mevki": 2,
+            "numara": 14
+          },
+          {
+            "id": 4372,
+            "ad": "Marcos Ao\u00e1s Corr\u00eaa",
+            "mevki": 3,
+            "numara": 4
+          },
+          {
+            "id": 3295,
+            "ad": "Thiago Emiliano da Silva",
+            "mevki": 5,
+            "numara": 3
+          },
+          {
+            "id": 3063,
+            "ad": "Danilo Luiz da Silva",
+            "mevki": 6,
+            "numara": 2
+          },
+          {
+            "id": 22600,
+            "ad": "Lucas Tolentino Coelho de Lima",
+            "mevki": 9,
+            "numara": 7
+          },
+          {
+            "id": 5539,
+            "ad": "Carlos Henrique Casimiro",
+            "mevki": 11,
+            "numara": 5
+          },
+          {
+            "id": 10595,
+            "ad": "Raphael Dias Belloli",
+            "mevki": 12,
+            "numara": 11
+          },
+          {
+            "id": 18395,
+            "ad": "Vin\u00edcius Jos\u00e9 Paix\u00e3o de Oliveira J\u00fanior",
+            "mevki": 16,
+            "numara": 20
+          },
+          {
+            "id": 4320,
+            "ad": "Neymar da Silva Santos Junior",
+            "mevki": 19,
+            "numara": 10
+          },
+          {
+            "id": 3280,
+            "ad": "Richarlison de Andrade",
+            "mevki": 23,
+            "numara": 9
+          }
+        ]
+      }
+    }
+  },
+  "3869219": {
+    "Japan": {
+      "pas": 582,
+      "isabet": 436,
+      "kadro": {
+        "dizilis": "3-4-3",
+        "oyuncular": [
+          {
+            "id": 25719,
+            "ad": "Sh\u016bichi Gonda",
+            "mevki": 1,
+            "numara": 12
+          },
+          {
+            "id": 23730,
+            "ad": "Takehiro Tomiyasu",
+            "mevki": 3,
+            "numara": 16
+          },
+          {
+            "id": 3300,
+            "ad": "Maya Yoshida",
+            "mevki": 4,
+            "numara": 22
+          },
+          {
+            "id": 37215,
+            "ad": "Shogo Taniguchi",
+            "mevki": 5,
+            "numara": 3
+          },
+          {
+            "id": 23527,
+            "ad": "Junya Ito",
+            "mevki": 7,
+            "numara": 14
+          },
+          {
+            "id": 5690,
+            "ad": "Yuto Nagatomo",
+            "mevki": 8,
+            "numara": 5
+          },
+          {
+            "id": 23721,
+            "ad": "Wataru Endo",
+            "mevki": 9,
+            "numara": 6
+          },
+          {
+            "id": 37221,
+            "ad": "Hidemasa Morita",
+            "mevki": 11,
+            "numara": 13
+          },
+          {
+            "id": 8361,
+            "ad": "Ritsu Doan",
+            "mevki": 17,
+            "numara": 8
+          },
+          {
+            "id": 9411,
+            "ad": "Daichi Kamada",
+            "mevki": 21,
+            "numara": 15
+          },
+          {
+            "id": 30628,
+            "ad": "Daizen Maeda",
+            "mevki": 23,
+            "numara": 25
+          }
+        ]
+      }
+    },
+    "Croatia": {
+      "pas": 796,
+      "isabet": 657,
+      "kadro": {
+        "dizilis": "4-3-3",
+        "oyuncular": [
+          {
+            "id": 16531,
+            "ad": "Dominik Livakovi\u0107",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 29163,
+            "ad": "Josip Juranovi\u0107",
+            "mevki": 2,
+            "numara": 22
+          },
+          {
+            "id": 3471,
+            "ad": "Dejan Lovren",
+            "mevki": 3,
+            "numara": 6
+          },
+          {
+            "id": 33018,
+            "ad": "Jo\u0161ko Gvardiol",
+            "mevki": 5,
+            "numara": 20
+          },
+          {
+            "id": 11127,
+            "ad": "Borna Bari\u0161i\u0107",
+            "mevki": 6,
+            "numara": 3
+          },
+          {
+            "id": 5469,
+            "ad": "Marcelo Brozovi\u0107",
+            "mevki": 10,
+            "numara": 11
+          },
+          {
+            "id": 5463,
+            "ad": "Luka Modri\u0107",
+            "mevki": 13,
+            "numara": 10
+          },
+          {
+            "id": 5456,
+            "ad": "Mateo Kova\u010di\u0107",
+            "mevki": 15,
+            "numara": 8
+          },
+          {
+            "id": 5460,
+            "ad": "Andrej Kramari\u0107",
+            "mevki": 17,
+            "numara": 9
+          },
+          {
+            "id": 5474,
+            "ad": "Ivan Peri\u0161i\u0107",
+            "mevki": 21,
+            "numara": 4
+          },
+          {
+            "id": 7693,
+            "ad": "Bruno Petkovi\u0107",
+            "mevki": 23,
+            "numara": 16
+          }
+        ]
+      }
+    }
+  },
+  "3857296": {
+    "Croatia": {
+      "pas": 609,
+      "isabet": 514,
+      "kadro": {
+        "dizilis": "4-3-3",
+        "oyuncular": [
+          {
+            "id": 16531,
+            "ad": "Dominik Livakovi\u0107",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 29163,
+            "ad": "Josip Juranovi\u0107",
+            "mevki": 2,
+            "numara": 22
+          },
+          {
+            "id": 3471,
+            "ad": "Dejan Lovren",
+            "mevki": 3,
+            "numara": 6
+          },
+          {
+            "id": 33018,
+            "ad": "Jo\u0161ko Gvardiol",
+            "mevki": 5,
+            "numara": 20
+          },
+          {
+            "id": 12625,
+            "ad": "Borna Sosa",
+            "mevki": 6,
+            "numara": 19
+          },
+          {
+            "id": 5469,
+            "ad": "Marcelo Brozovi\u0107",
+            "mevki": 10,
+            "numara": 11
+          },
+          {
+            "id": 5463,
+            "ad": "Luka Modri\u0107",
+            "mevki": 13,
+            "numara": 10
+          },
+          {
+            "id": 5456,
+            "ad": "Mateo Kova\u010di\u0107",
+            "mevki": 15,
+            "numara": 8
+          },
+          {
+            "id": 5460,
+            "ad": "Andrej Kramari\u0107",
+            "mevki": 17,
+            "numara": 9
+          },
+          {
+            "id": 5474,
+            "ad": "Ivan Peri\u0161i\u0107",
+            "mevki": 21,
+            "numara": 4
+          },
+          {
+            "id": 22041,
+            "ad": "Marko Livaja",
+            "mevki": 23,
+            "numara": 14
+          }
+        ]
+      }
+    },
+    "Belgium": {
+      "pas": 630,
+      "isabet": 543,
+      "kadro": {
+        "dizilis": "4-2-3-1",
+        "oyuncular": [
+          {
+            "id": 3509,
+            "ad": "Thibaut Courtois",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 3176,
+            "ad": "Thomas Meunier",
+            "mevki": 2,
+            "numara": 15
+          },
+          {
+            "id": 20005,
+            "ad": "Toby Alderweireld",
+            "mevki": 3,
+            "numara": 2
+          },
+          {
+            "id": 3077,
+            "ad": "Jan Vertonghen",
+            "mevki": 5,
+            "numara": 5
+          },
+          {
+            "id": 6989,
+            "ad": "Timothy Castagne",
+            "mevki": 6,
+            "numara": 21
+          },
+          {
+            "id": 6331,
+            "ad": "Leander Dendoncker",
+            "mevki": 9,
+            "numara": 19
+          },
+          {
+            "id": 5642,
+            "ad": "Axel Witsel",
+            "mevki": 11,
+            "numara": 6
+          },
+          {
+            "id": 3089,
+            "ad": "Kevin De Bruyne",
+            "mevki": 17,
+            "numara": 7
+          },
+          {
+            "id": 5630,
+            "ad": "Dries Mertens",
+            "mevki": 19,
+            "numara": 14
+          },
+          {
+            "id": 5633,
+            "ad": "Yannick Ferreira Carrasco",
+            "mevki": 21,
+            "numara": 11
+          },
+          {
+            "id": 16559,
+            "ad": "Leandro Trossard",
+            "mevki": 23,
+            "numara": 17
+          }
+        ]
+      }
+    }
+  },
+  "3857281": {
+    "Croatia": {
+      "pas": 507,
+      "isabet": 411,
+      "kadro": {
+        "dizilis": "4-3-3",
+        "oyuncular": [
+          {
+            "id": 16531,
+            "ad": "Dominik Livakovi\u0107",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 29163,
+            "ad": "Josip Juranovi\u0107",
+            "mevki": 2,
+            "numara": 22
+          },
+          {
+            "id": 3471,
+            "ad": "Dejan Lovren",
+            "mevki": 3,
+            "numara": 6
+          },
+          {
+            "id": 33018,
+            "ad": "Jo\u0161ko Gvardiol",
+            "mevki": 5,
+            "numara": 20
+          },
+          {
+            "id": 12625,
+            "ad": "Borna Sosa",
+            "mevki": 6,
+            "numara": 19
+          },
+          {
+            "id": 5469,
+            "ad": "Marcelo Brozovi\u0107",
+            "mevki": 10,
+            "numara": 11
+          },
+          {
+            "id": 5463,
+            "ad": "Luka Modri\u0107",
+            "mevki": 13,
+            "numara": 10
+          },
+          {
+            "id": 5456,
+            "ad": "Mateo Kova\u010di\u0107",
+            "mevki": 15,
+            "numara": 8
+          },
+          {
+            "id": 5460,
+            "ad": "Andrej Kramari\u0107",
+            "mevki": 17,
+            "numara": 9
+          },
+          {
+            "id": 5474,
+            "ad": "Ivan Peri\u0161i\u0107",
+            "mevki": 21,
+            "numara": 4
+          },
+          {
+            "id": 22041,
+            "ad": "Marko Livaja",
+            "mevki": 23,
+            "numara": 14
+          }
+        ]
+      }
+    },
+    "Canada": {
+      "pas": 529,
+      "isabet": 437,
+      "kadro": {
+        "dizilis": "4-4-2",
+        "oyuncular": [
+          {
+            "id": 15958,
+            "ad": "Milan Borjan",
+            "mevki": 1,
+            "numara": 18
+          },
+          {
+            "id": 44703,
+            "ad": "Alistair Johnston",
+            "mevki": 2,
+            "numara": 2
+          },
+          {
+            "id": 11846,
+            "ad": "Steven de Sousa Vitoria",
+            "mevki": 3,
+            "numara": 5
+          },
+          {
+            "id": 23828,
+            "ad": "Kamal Miller",
+            "mevki": 5,
+            "numara": 4
+          },
+          {
+            "id": 16120,
+            "ad": "Richie Laryea",
+            "mevki": 6,
+            "numara": 22
+          },
+          {
+            "id": 31684,
+            "ad": "Atiba Hutchinson",
+            "mevki": 9,
+            "numara": 13
+          },
+          {
+            "id": 11187,
+            "ad": "Stephen Antunes Eust\u00e1quio",
+            "mevki": 11,
+            "numara": 7
+          },
+          {
+            "id": 24024,
+            "ad": "Tajon Buchanan",
+            "mevki": 12,
+            "numara": 11
+          },
+          {
+            "id": 12365,
+            "ad": "Alphonso Davies",
+            "mevki": 16,
+            "numara": 19
+          },
+          {
+            "id": 16459,
+            "ad": "Cyle Larin",
+            "mevki": 22,
+            "numara": 17
+          },
+          {
+            "id": 23640,
+            "ad": "Jonathan David",
+            "mevki": 24,
+            "numara": 20
+          }
+        ]
+      }
+    }
+  },
+  "3869486": {
+    "Morocco": {
+      "pas": 249,
+      "isabet": 184,
+      "kadro": {
+        "dizilis": "4-1-4-1",
+        "oyuncular": [
+          {
+            "id": 6785,
+            "ad": "Yassine Bounou",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 5245,
+            "ad": "Achraf Hakimi Mouh",
+            "mevki": 2,
+            "numara": 2
+          },
+          {
+            "id": 7459,
+            "ad": "Jawad El Yamiq",
+            "mevki": 3,
+            "numara": 18
+          },
+          {
+            "id": 5219,
+            "ad": "Romain Sa\u00efss",
+            "mevki": 5,
+            "numara": 6
+          },
+          {
+            "id": 31295,
+            "ad": "Yahia Attiyat allah",
+            "mevki": 6,
+            "numara": 25
+          },
+          {
+            "id": 5234,
+            "ad": "Sofyan Amrabat",
+            "mevki": 10,
+            "numara": 4
+          },
+          {
+            "id": 5237,
+            "ad": "Hakim Ziyech",
+            "mevki": 12,
+            "numara": 7
+          },
+          {
+            "id": 46258,
+            "ad": "Azzedine Ounahi",
+            "mevki": 13,
+            "numara": 8
+          },
+          {
+            "id": 23774,
+            "ad": "Selim Amallah",
+            "mevki": 15,
+            "numara": 15
+          },
+          {
+            "id": 3625,
+            "ad": "Sofiane Boufal",
+            "mevki": 16,
+            "numara": 17
+          },
+          {
+            "id": 6301,
+            "ad": "Youssef En-Nesyri",
+            "mevki": 23,
+            "numara": 19
+          }
+        ]
+      }
+    },
+    "Portugal": {
+      "pas": 731,
+      "isabet": 616,
+      "kadro": {
+        "dizilis": "4-3-3",
+        "oyuncular": [
+          {
+            "id": 32975,
+            "ad": "Diogo Meireles Costa",
+            "mevki": 1,
+            "numara": 22
+          },
+          {
+            "id": 16028,
+            "ad": "Jos\u00e9 Diogo Dalot Teixeira",
+            "mevki": 2,
+            "numara": 2
+          },
+          {
+            "id": 20016,
+            "ad": "Kl\u00e9per Laveran Lima Ferreira",
+            "mevki": 3,
+            "numara": 3
+          },
+          {
+            "id": 5206,
+            "ad": "R\u00faben Santos Gato Alves Dias",
+            "mevki": 5,
+            "numara": 4
+          },
+          {
+            "id": 5209,
+            "ad": "Rapha\u00ebl Adelino Jos\u00e9 Guerreiro",
+            "mevki": 6,
+            "numara": 5
+          },
+          {
+            "id": 9927,
+            "ad": "R\u00faben Diogo Da Silva Neves",
+            "mevki": 10,
+            "numara": 18
+          },
+          {
+            "id": 3193,
+            "ad": "Bernardo Mota Veiga de Carvalho e Silva",
+            "mevki": 13,
+            "numara": 10
+          },
+          {
+            "id": 11184,
+            "ad": "Ot\u00e1vio Edmilson da Silva Monteiro",
+            "mevki": 15,
+            "numara": 25
+          },
+          {
+            "id": 5204,
+            "ad": "Bruno Miguel Borges Fernandes",
+            "mevki": 17,
+            "numara": 8
+          },
+          {
+            "id": 12041,
+            "ad": "Jo\u00e3o F\u00e9lix Sequeira",
+            "mevki": 21,
+            "numara": 11
+          },
+          {
+            "id": 38803,
+            "ad": "Gon\u00e7alo Matias Ramos",
+            "mevki": 23,
+            "numara": 26
+          }
+        ]
+      }
+    }
+  },
+  "3869220": {
+    "Morocco": {
+      "pas": 365,
+      "isabet": 250,
+      "kadro": {
+        "dizilis": "4-3-3",
+        "oyuncular": [
+          {
+            "id": 6785,
+            "ad": "Yassine Bounou",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 5245,
+            "ad": "Achraf Hakimi Mouh",
+            "mevki": 2,
+            "numara": 2
+          },
+          {
+            "id": 12149,
+            "ad": "Nayef Aguerd",
+            "mevki": 3,
+            "numara": 5
+          },
+          {
+            "id": 5219,
+            "ad": "Romain Sa\u00efss",
+            "mevki": 5,
+            "numara": 6
+          },
+          {
+            "id": 15890,
+            "ad": "Noussair Mazraoui",
+            "mevki": 6,
+            "numara": 3
+          },
+          {
+            "id": 5234,
+            "ad": "Sofyan Amrabat",
+            "mevki": 10,
+            "numara": 4
+          },
+          {
+            "id": 46258,
+            "ad": "Azzedine Ounahi",
+            "mevki": 13,
+            "numara": 8
+          },
+          {
+            "id": 23774,
+            "ad": "Selim Amallah",
+            "mevki": 15,
+            "numara": 15
+          },
+          {
+            "id": 5237,
+            "ad": "Hakim Ziyech",
+            "mevki": 17,
+            "numara": 7
+          },
+          {
+            "id": 3625,
+            "ad": "Sofiane Boufal",
+            "mevki": 21,
+            "numara": 17
+          },
+          {
+            "id": 6301,
+            "ad": "Youssef En-Nesyri",
+            "mevki": 23,
+            "numara": 19
+          }
+        ]
+      }
+    },
+    "Spain": {
+      "pas": 1068,
+      "isabet": 960,
+      "kadro": {
+        "dizilis": "4-3-3",
+        "oyuncular": [
+          {
+            "id": 11748,
+            "ad": "Unai Sim\u00f3n Mendibil",
+            "mevki": 1,
+            "numara": 23
+          },
+          {
+            "id": 6840,
+            "ad": "Marcos Llorente Moreno",
+            "mevki": 2,
+            "numara": 6
+          },
+          {
+            "id": 6765,
+            "ad": "Rodrigo Hern\u00e1ndez Cascante",
+            "mevki": 3,
+            "numara": 16
+          },
+          {
+            "id": 4353,
+            "ad": "Aymeric Laporte",
+            "mevki": 5,
+            "numara": 24
+          },
+          {
+            "id": 5211,
+            "ad": "Jordi Alba Ramos",
+            "mevki": 6,
+            "numara": 18
+          },
+          {
+            "id": 5203,
+            "ad": "Sergio Busquets i Burgos",
+            "mevki": 10,
+            "numara": 5
+          },
+          {
+            "id": 133353,
+            "ad": "Pablo Mart\u00edn P\u00e1ez Gavira",
+            "mevki": 13,
+            "numara": 9
+          },
+          {
+            "id": 30486,
+            "ad": "Pedro Gonz\u00e1lez L\u00f3pez",
+            "mevki": 15,
+            "numara": 26
+          },
+          {
+            "id": 6748,
+            "ad": "Ferr\u00e1n Torres Garc\u00eda",
+            "mevki": 17,
+            "numara": 11
+          },
+          {
+            "id": 16532,
+            "ad": "Daniel Olmo Carvajal",
+            "mevki": 21,
+            "numara": 21
+          },
+          {
+            "id": 5719,
+            "ad": "Marco Asensio Willemsen",
+            "mevki": 23,
+            "numara": 10
+          }
+        ]
+      }
+    }
+  },
+  "3857276": {
+    "Canada": {
+      "pas": 562,
+      "isabet": 480,
+      "kadro": {
+        "dizilis": "4-4-1-1",
+        "oyuncular": [
+          {
+            "id": 15958,
+            "ad": "Milan Borjan",
+            "mevki": 1,
+            "numara": 18
+          },
+          {
+            "id": 44703,
+            "ad": "Alistair Johnston",
+            "mevki": 2,
+            "numara": 2
+          },
+          {
+            "id": 11846,
+            "ad": "Steven de Sousa Vitoria",
+            "mevki": 3,
+            "numara": 5
+          },
+          {
+            "id": 23828,
+            "ad": "Kamal Miller",
+            "mevki": 5,
+            "numara": 4
+          },
+          {
+            "id": 29758,
+            "ad": "Sam Adekugbe",
+            "mevki": 6,
+            "numara": 3
+          },
+          {
+            "id": 12770,
+            "ad": "Jonathan Osorio",
+            "mevki": 9,
+            "numara": 21
+          },
+          {
+            "id": 16252,
+            "ad": "Mark Anthony Kaye",
+            "mevki": 11,
+            "numara": 14
+          },
+          {
+            "id": 12365,
+            "ad": "Alphonso Davies",
+            "mevki": 12,
+            "numara": 19
+          },
+          {
+            "id": 24024,
+            "ad": "Tajon Buchanan",
+            "mevki": 16,
+            "numara": 11
+          },
+          {
+            "id": 9922,
+            "ad": "David Junior Hoilett",
+            "mevki": 19,
+            "numara": 10
+          },
+          {
+            "id": 16459,
+            "ad": "Cyle Larin",
+            "mevki": 23,
+            "numara": 17
+          }
+        ]
+      }
+    },
+    "Morocco": {
+      "pas": 393,
+      "isabet": 310,
+      "kadro": {
+        "dizilis": "4-3-3",
+        "oyuncular": [
+          {
+            "id": 6785,
+            "ad": "Yassine Bounou",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 5245,
+            "ad": "Achraf Hakimi Mouh",
+            "mevki": 2,
+            "numara": 2
+          },
+          {
+            "id": 12149,
+            "ad": "Nayef Aguerd",
+            "mevki": 3,
+            "numara": 5
+          },
+          {
+            "id": 5219,
+            "ad": "Romain Sa\u00efss",
+            "mevki": 5,
+            "numara": 6
+          },
+          {
+            "id": 15890,
+            "ad": "Noussair Mazraoui",
+            "mevki": 6,
+            "numara": 3
+          },
+          {
+            "id": 5234,
+            "ad": "Sofyan Amrabat",
+            "mevki": 10,
+            "numara": 4
+          },
+          {
+            "id": 46258,
+            "ad": "Azzedine Ounahi",
+            "mevki": 13,
+            "numara": 8
+          },
+          {
+            "id": 3634,
+            "ad": "Abdelhamid Sabiri",
+            "mevki": 15,
+            "numara": 11
+          },
+          {
+            "id": 5237,
+            "ad": "Hakim Ziyech",
+            "mevki": 17,
+            "numara": 7
+          },
+          {
+            "id": 3625,
+            "ad": "Sofiane Boufal",
+            "mevki": 21,
+            "numara": 17
+          },
+          {
+            "id": 6301,
+            "ad": "Youssef En-Nesyri",
+            "mevki": 23,
+            "numara": 19
+          }
+        ]
+      }
+    }
+  },
+  "3857283": {
+    "Belgium": {
+      "pas": 703,
+      "isabet": 604,
+      "kadro": {
+        "dizilis": "4-2-3-1",
+        "oyuncular": [
+          {
+            "id": 3509,
+            "ad": "Thibaut Courtois",
+            "mevki": 1,
+            "numara": 1
+          },
+          {
+            "id": 3176,
+            "ad": "Thomas Meunier",
+            "mevki": 2,
+            "numara": 15
+          },
+          {
+            "id": 20005,
+            "ad": "Toby Alderweireld",
+            "mevki": 3,
+            "numara": 2
+          },
+          {
+            "id": 3077,
+            "ad": "Jan Vertonghen",
+            "mevki": 5,
+            "numara": 5
+          },
+          {
+            "id": 6989,
+            "ad": "Timothy Castagne",
+            "mevki": 6,
+            "numara": 21
+          },
+          {
+            "id": 48347,
+            "ad": "Amadou Onana",
+            "mevki": 9,
+            "numara": 18
+          },
+          {
+            "id": 5642,
+            "ad": "Axel Witsel",
+            "mevki": 11,
+            "numara": 6
+          },
+          {
+            "id": 3089,
+            "ad": "Kevin De Bruyne",
+            "mevki": 17,
+            "numara": 7
+          },
+          {
+            "id": 3621,
+            "ad": "Eden Hazard",
+            "mevki": 19,
+            "numara": 10
+          },
+          {
+            "id": 5632,
+            "ad": "Thorgan Hazard",
+            "mevki": 21,
+            "numara": 16
+          },
+          {
+            "id": 3457,
+            "ad": "Michy Batshuayi Tunga",
+            "mevki": 23,
+            "numara": 23
+          }
+        ]
+      }
+    },
+    "Morocco": {
+      "pas": 347,
+      "isabet": 287,
+      "kadro": {
+        "dizilis": "4-3-3",
+        "oyuncular": [
+          {
+            "id": 5233,
+            "ad": "Munir Mohand Mohamedi",
+            "mevki": 1,
+            "numara": 12
+          },
+          {
+            "id": 5245,
+            "ad": "Achraf Hakimi Mouh",
+            "mevki": 2,
+            "numara": 2
+          },
+          {
+            "id": 12149,
+            "ad": "Nayef Aguerd",
+            "mevki": 3,
+            "numara": 5
+          },
+          {
+            "id": 5219,
+            "ad": "Romain Sa\u00efss",
+            "mevki": 5,
+            "numara": 6
+          },
+          {
+            "id": 15890,
+            "ad": "Noussair Mazraoui",
+            "mevki": 6,
+            "numara": 3
+          },
+          {
+            "id": 5234,
+            "ad": "Sofyan Amrabat",
+            "mevki": 10,
+            "numara": 4
+          },
+          {
+            "id": 23774,
+            "ad": "Selim Amallah",
+            "mevki": 13,
+            "numara": 15
+          },
+          {
+            "id": 46258,
+            "ad": "Azzedine Ounahi",
+            "mevki": 15,
+            "numara": 8
+          },
+          {
+            "id": 5237,
+            "ad": "Hakim Ziyech",
+            "mevki": 17,
+            "numara": 7
+          },
+          {
+            "id": 3625,
+            "ad": "Sofiane Boufal",
+            "mevki": 21,
+            "numara": 17
+          },
+          {
+            "id": 6301,
+            "ad": "Youssef En-Nesyri",
+            "mevki": 23,
+            "numara": 19
+          }
+        ]
+      }
+    }
+  }
+}

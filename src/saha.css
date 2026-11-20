@@ -1,0 +1,28 @@
+.kadro-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:18px; margin-top:18px; }
+.kadro-kart { container-type:inline-size; margin:0; padding:0 9px 9px; border-radius:12px; background:#12392e; color:white; overflow:hidden; }
+.kadro-kart figcaption { display:flex; justify-content:space-between; align-items:center; padding:13px 5px; gap:8px; }
+.kadro-kart figcaption strong { border-left:3px solid #cce982; padding-left:8px; }
+.kadro-kart figcaption span { color:#ddf5a1; border:1px solid #6b8358; border-radius:5px; padding:2px 7px; font-size:13px; font-weight:700; }
+.kadro-saha { position:relative; display:grid; grid-auto-rows:1fr; gap:7px; padding:10px 3px; border-radius:4px; background:repeating-linear-gradient(90deg,#2f754a 0 10%,#347d50 10% 20%); }
+.saha-cizgi { position:absolute; inset:0; width:100%; height:100%; color:#e8f3d8a8; pointer-events:none; }
+.kadro-hat { position:relative; display:flex; align-items:center; justify-content:space-around; }
+.kadro-oyuncu { display:grid; justify-items:center; align-content:center; gap:2px; min-width:0; flex:1; }
+.forma { width:38px; height:34px; display:grid; place-items:center; background:var(--kit,#e9eddf); clip-path:polygon(26% 5%,39% 0,45% 9%,55% 9%,61% 0,74% 5%,100% 25%,87% 49%,73% 41%,73% 100%,27% 100%,27% 41%,13% 49%,0 25%); }
+.forma b { margin-top:3px; font:800 16px/1 'Segoe UI',sans-serif; color:var(--ink,#fff); text-shadow:0 1px 2px #1119; }
+.kadro-kart[data-team="Argentina"] { --kit:repeating-linear-gradient(90deg,#fafafa 0 6px,#8bcce8 6px 12px); --ink:#102433; }
+.kadro-kart[data-team="France"] { --kit:linear-gradient(180deg,#243767 50%,#172650); --ink:#ffdf99; }
+.kadro-kart[data-team="Croatia"] { --kit:repeating-conic-gradient(#ce2531 0 25%,#fff 0 50%) 0 0/13px 13px; }
+.kadro-kart[data-team="Croatia"] .forma:not(.kaleci) b { background:#a21e2b; }
+.kadro-kart[data-team="Morocco"] { --kit:linear-gradient(180deg,#15694c 0 17%,#c6353a 17% 100%); }
+.forma.kaleci { --kit:#efbf48; --ink:#242e27; }
+.forma-ad { max-width:98%; padding:2px 5px; border-radius:4px; color:white; background:#112e28f5; font-size:clamp(10px,1.1vw,13px); font-weight:600; line-height:1.25; text-align:center; overflow-wrap:anywhere; }
+.kadro-grid details { margin:10px 0; }
+.kadro-grid details table { width:100%; font-size:13px; border-collapse:collapse; }
+@media(min-width:801px){
+  .kadro-saha {
+    height:clamp(360px,78cqw,460px);
+    grid-auto-rows:60px;
+    align-content:space-between;
+  }
+}
+@media(max-width:800px){ .kadro-grid { grid-template-columns:minmax(0,1fr); } }

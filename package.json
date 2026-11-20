@@ -1,0 +1,16 @@
+{
+  "name": "saha-analizi",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "predev": "python aktar.py",
+    "dev": "vite",
+    "prebuild": "python aktar.py",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": { "vite": "^7.0.0" }
+}

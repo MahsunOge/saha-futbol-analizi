@@ -1,0 +1,18 @@
+{
+  "ozellikler": [
+    "mesafe_m",
+    "aci_derece",
+    "penalti"
+  ],
+  "katsayilar": [
+    -0.09489701498369256,
+    0.019445554426867812,
+    2.5706213136786733
+  ],
+  "sabit": -1.4888885584336609,
+  "egitim_mac": 62,
+  "egitim_sut": 1402,
+  "test_sut": 51,
+  "brier": 0.08952234729369582,
+  "referans_brier": 0.14921598114969478
+}
